@@ -1,0 +1,1001 @@
+product_id,brand,category,sub_category,price,rating,review_count
+PRD0001,"Konda, Keer and Dhawan",Sports & Fitness,Football,442722.82,3.3,4355
+PRD0002,"Sangha, Dhaliwal and Sachdeva",Books,Biography,200708.22,3.6,675
+PRD0003,Sanghvi-Nadig,Clothing,Shirts,220983.37,1.3,4597
+PRD0004,"Kumar, Bail and Gupta",Grocery,Staples,480235.53,3.7,1248
+PRD0005,"Nair, Behl and Uppal",Clothing,Sarees,225689.16,4.3,4622
+PRD0006,Keer LLC,Electronics,Televisions,248881.91,5.0,1890
+PRD0007,Puri-Sethi,Electronics,Headphones,56943.72,2.1,654
+PRD0008,Bora-Mukherjee,Grocery,Snacks,132027.03,2.3,2807
+PRD0009,Patel-Sathe,Home & Kitchen,Cookware,343974.7,3.7,1799
+PRD0010,"Rattan, Basak and More",Electronics,Gaming Consoles,384455.08,4.9,4522
+PRD0011,Mistry PLC,Electronics,Tablets,50487.59,1.2,2351
+PRD0012,Rastogi LLC,Toys & Games,Puzzles,423350.6,1.5,1676
+PRD0013,"Sabharwal, Gopal and Konda",Sports & Fitness,Cricket,291862.99,4.8,4771
+PRD0014,Mangal-Dass,Toys & Games,Puzzles,456289.05,3.0,597
+PRD0015,"Suresh, Nori and Karnik",Sports & Fitness,Gym Equipment,77541.35,1.4,4865
+PRD0016,"Lala, Sarin and Solanki",Electronics,Headphones,367901.61,2.9,20
+PRD0017,Padmanabhan-Loyal,Grocery,Staples,60245.72,1.7,2856
+PRD0018,Nath Inc,Clothing,Jeans,253744.03,3.9,2875
+PRD0019,Chanda PLC,Books,Self-Help,189955.9,1.4,2826
+PRD0020,"Kant, Gopal and Ratti",Home & Kitchen,Storage,62425.19,2.9,2593
+PRD0021,Sibal LLC,Grocery,Fruits & Vegetables,72082.89,3.5,3671
+PRD0022,Agrawal and Sons,Toys & Games,Puzzles,186224.28,1.3,346
+PRD0023,Nagar-Mitter,Beauty & Personal Care,Fragrances,317209.45,3.4,3003
+PRD0024,Varma-Dass,Sports & Fitness,Outdoor Recreation,115848.13,1.7,230
+PRD0025,"Iyengar, Kaul and Vaidya",Books,Non-Fiction,229608.54,3.7,395
+PRD0026,"Mukhopadhyay, Vora and Shanker",Home & Kitchen,Cookware,332620.96,2.9,2013
+PRD0027,Pandey-Chand,Home & Kitchen,Kitchen Appliances,354586.07,1.3,4165
+PRD0028,Mandal PLC,Books,Science,389595.07,3.7,1667
+PRD0029,Dayal-Basu,Electronics,Smartwatches,254739.05,2.2,1135
+PRD0030,Chakraborty-Thakur,Home & Kitchen,Home Decor,135855.72,4.7,2589
+PRD0031,Palla-Bhandari,Grocery,Frozen Foods,309375.26,1.9,795
+PRD0032,"Verma, Patla and Sani",Books,Non-Fiction,440662.44,3.6,2529
+PRD0033,Gulati-Sami,Sports & Fitness,Football,46608.17,3.0,1726
+PRD0034,Dass and Sons,Electronics,Gaming Consoles,481216.6,3.6,2900
+PRD0035,"Chaudry, Dugal and Mahajan",Grocery,Frozen Foods,435053.37,2.7,2881
+PRD0036,Randhawa-Maharaj,Home & Kitchen,Kitchen Appliances,14285.8,4.5,339
+PRD0037,Kota PLC,Grocery,Snacks,19282.54,4.5,3723
+PRD0038,"Kapoor, Parmer and Pillai",Books,History,475755.84,3.9,1212
+PRD0039,Kala and Sons,Sports & Fitness,Football,404.11,3.7,2855
+PRD0040,"Wali, Pall and Rama",Beauty & Personal Care,Bath & Body,258289.75,4.9,299
+PRD0041,Jain-Pathak,Grocery,Dairy,386068.92,1.7,4421
+PRD0042,Mahal Ltd,Books,History,404782.24,3.7,4653
+PRD0043,Dubey PLC,Sports & Fitness,Cricket,267712.35,2.6,4824
+PRD0044,"Sani, Dutta and D’Alia",Grocery,Staples,37639.26,3.3,2481
+PRD0045,"Venkatesh, Srinivasan and Sidhu",Beauty & Personal Care,Hair Care,50894.14,4.3,24
+PRD0046,Kalita-D’Alia,Beauty & Personal Care,Grooming,299475.4,4.3,1928
+PRD0047,"Kaul, Narayanan and Ranganathan",Grocery,Snacks,135167.95,4.0,2902
+PRD0048,Ramesh Ltd,Beauty & Personal Care,Grooming,388284.84,1.3,1830
+PRD0049,"Doshi, More and Goyal",Books,Science,305057.06,1.4,3726
+PRD0050,Bhakta LLC,Electronics,Headphones,169074.76,2.4,3133
+PRD0051,"Mitra, Pingle and Nath",Home & Kitchen,Storage,481450.5,3.6,1794
+PRD0052,"Sule, Sagar and Sinha",Home & Kitchen,Cookware,5013.37,3.9,3218
+PRD0053,"Parekh, Handa and Hayre",Beauty & Personal Care,Bath & Body,219816.79,3.5,2247
+PRD0054,Ramakrishnan Ltd,Grocery,Frozen Foods,403175.85,4.4,1492
+PRD0055,Sethi Ltd,Home & Kitchen,Lighting,144415.29,2.0,1355
+PRD0056,Chand-Sura,Sports & Fitness,Cycling,375116.59,3.2,679
+PRD0057,Shah-Ratta,Home & Kitchen,Kitchen Appliances,436271.34,2.5,4788
+PRD0058,Walla-Chaudhary,Sports & Fitness,Cycling,274202.64,2.3,304
+PRD0059,Shenoy-Virk,Books,Science,69890.6,4.7,1206
+PRD0060,Walia Ltd,Home & Kitchen,Lighting,201975.51,1.1,19
+PRD0061,"Bedi, Ratta and Bal",Toys & Games,Educational Toys,280078.39,4.3,4974
+PRD0062,Pillai Ltd,Beauty & Personal Care,Skincare,7644.0,4.6,359
+PRD0063,Mittal-Doctor,Home & Kitchen,Bedding,392027.06,2.3,663
+PRD0064,"Dhingra, Choudhary and Nair",Sports & Fitness,Yoga,353042.17,2.7,3786
+PRD0065,"Bhardwaj, Mital and Sami",Grocery,Bakery,316183.24,3.9,1424
+PRD0066,"Bhagat, Banerjee and Sunder",Electronics,Smartwatches,312144.24,2.5,4206
+PRD0067,"Minhas, Wadhwa and Atwal",Sports & Fitness,Cycling,285269.76,4.4,1780
+PRD0068,Tata Group,Electronics,Smartwatches,396547.89,3.5,1751
+PRD0069,"Kalla, Prabhakar and Kumar",Grocery,Fruits & Vegetables,12944.23,1.4,2592
+PRD0070,Walla Ltd,Beauty & Personal Care,Bath & Body,245276.45,4.4,718
+PRD0071,Wadhwa-Anne,Electronics,Laptops,336412.37,4.3,4232
+PRD0072,"Bobal, Raja and Dube",Electronics,Tablets,177782.5,1.1,2988
+PRD0073,Naik PLC,Beauty & Personal Care,Hair Care,207272.6,2.9,2692
+PRD0074,Banik-Dave,Toys & Games,Action Figures,365866.1,4.4,2385
+PRD0075,"Bora, Sethi and Keer",Clothing,Shirts,178067.75,1.5,844
+PRD0076,Dani-Sehgal,Books,Biography,408837.17,2.5,4086
+PRD0077,"Vala, Chand and Krishnamurthy",Books,Biography,46386.65,1.1,106
+PRD0078,"Keer, Bawa and Salvi",Electronics,Cameras,377438.99,4.7,1023
+PRD0079,Date-Thakkar,Grocery,Snacks,52375.45,3.0,4847
+PRD0080,Bala-Kamdar,Toys & Games,Board Games,289579.01,1.4,2105
+PRD0081,Atwal LLC,Beauty & Personal Care,Grooming,422104.17,4.6,4059
+PRD0082,"Deo, Bora and Dalal",Sports & Fitness,Running,483055.39,3.0,2562
+PRD0083,"Khanna, Bakshi and Dasgupta",Beauty & Personal Care,Grooming,393452.44,2.4,1240
+PRD0084,Mahajan-Kapoor,Sports & Fitness,Cycling,349448.73,3.5,948
+PRD0085,Dugar-Lal,Clothing,T-Shirts,430414.2,2.9,4006
+PRD0086,Kalla and Sons,Toys & Games,Board Games,29313.76,1.9,2770
+PRD0087,Sarin PLC,Books,Science,391867.7,4.7,1675
+PRD0088,"Subramaniam, Pall and Sodhi",Electronics,Smartwatches,350575.13,1.0,3415
+PRD0089,Sarma PLC,Home & Kitchen,Storage,305458.21,4.8,3085
+PRD0090,Suresh Group,Clothing,Sarees,125416.0,3.4,2268
+PRD0091,"Dara, Sahota and Parikh",Books,Science,252674.36,2.9,3577
+PRD0092,Kannan-Dube,Grocery,Bakery,134866.12,3.8,4647
+PRD0093,Tiwari-Gour,Grocery,Beverages,263627.73,4.3,4219
+PRD0094,"Sangha, Grover and Shankar",Home & Kitchen,Storage,193799.52,2.6,2658
+PRD0095,Shah Ltd,Books,Biography,223259.72,3.5,4319
+PRD0096,"Chanda, Bajaj and Tak",Books,History,279302.34,1.3,998
+PRD0097,Lad and Sons,Clothing,Sarees,20682.57,2.3,4613
+PRD0098,Barad-Atwal,Books,Science,91723.55,2.3,3812
+PRD0099,"Dhaliwal, Pillay and Merchant",Books,History,130423.59,4.0,1089
+PRD0100,"Buch, Srivastava and Chaudhuri",Clothing,Trousers,274137.65,2.2,506
+PRD0101,"Goswami, Mand and Jani",Clothing,Dresses,167119.54,3.2,2911
+PRD0102,"Chandran, Puri and Munshi",Clothing,Jackets,448601.47,4.1,2119
+PRD0103,Bhardwaj Group,Sports & Fitness,Football,477670.48,3.6,707
+PRD0104,"Kakar, Shukla and Deo",Toys & Games,Remote Control Toys,343413.97,2.2,2579
+PRD0105,Mukherjee-Mangal,Grocery,Beverages,372421.86,3.7,154
+PRD0106,"Aurora, Bajwa and Yadav",Sports & Fitness,Football,266553.12,4.8,4834
+PRD0107,Karan and Sons,Clothing,Dresses,234275.96,4.1,1258
+PRD0108,"Soni, Ray and Palan",Books,History,457847.87,1.2,344
+PRD0109,Dutt-Shan,Grocery,Bakery,265195.53,1.0,1228
+PRD0110,Devan-Khosla,Sports & Fitness,Cycling,476684.32,3.6,2414
+PRD0111,Dar Ltd,Clothing,Jeans,203119.11,3.3,1228
+PRD0112,Atwal-Buch,Books,Science,413623.27,3.3,1523
+PRD0113,Nori Group,Electronics,Televisions,480366.85,2.5,1597
+PRD0114,"Buch, Narayan and Nanda",Electronics,Smartwatches,112637.36,1.2,4555
+PRD0115,Agarwal LLC,Electronics,Smartwatches,375816.78,1.7,381
+PRD0116,Saxena Inc,Toys & Games,Remote Control Toys,405121.15,3.5,1607
+PRD0117,Jhaveri Ltd,Clothing,Sarees,233957.85,4.4,2326
+PRD0118,Iyer PLC,Toys & Games,Action Figures,283836.47,2.3,3024
+PRD0119,Dhillon-Badami,Clothing,Trousers,203981.61,1.1,2280
+PRD0120,Minhas-Talwar,Beauty & Personal Care,Makeup,280532.71,3.2,4635
+PRD0121,"Singh, Chaudhary and Mitter",Home & Kitchen,Home Decor,275088.86,2.1,3150
+PRD0122,"Virk, Sood and Kata",Clothing,Jackets,58233.85,2.0,930
+PRD0123,Mani-Padmanabhan,Books,Biography,404763.53,4.5,2770
+PRD0124,"Chaudhary, Sami and Salvi",Electronics,Gaming Consoles,32354.36,1.7,2427
+PRD0125,Chhabra-Varma,Grocery,Frozen Foods,118921.52,3.2,952
+PRD0126,Nanda LLC,Toys & Games,Remote Control Toys,349206.68,2.2,4919
+PRD0127,Choudhary and Sons,Home & Kitchen,Home Decor,497967.67,3.5,680
+PRD0128,"Shukla, Chaudhry and Oza",Toys & Games,Remote Control Toys,488283.83,2.8,3352
+PRD0129,Chana Inc,Toys & Games,Action Figures,48659.49,2.3,2234
+PRD0130,Dass-Gulati,Grocery,Beverages,284873.13,2.3,932
+PRD0131,Dixit and Sons,Clothing,Shoes,54831.73,3.3,3735
+PRD0132,Sampath-Raju,Clothing,Jackets,428887.21,2.9,3979
+PRD0133,"Viswanathan, Menon and Cherian",Electronics,Tablets,470196.95,2.5,2890
+PRD0134,Nagarajan-Samra,Beauty & Personal Care,Hair Care,320861.2,1.1,3092
+PRD0135,"Kara, Krishnan and Nagar",Beauty & Personal Care,Grooming,338060.45,2.9,2553
+PRD0136,"Dhingra, Sunder and Yadav",Books,Science,417077.04,2.9,538
+PRD0137,"Krishnan, Bhatnagar and Bhatnagar",Clothing,Jackets,446911.84,4.8,2238
+PRD0138,Dubey-Garde,Electronics,Smartwatches,135488.73,2.2,20
+PRD0139,"Wable, Sinha and Minhas",Beauty & Personal Care,Fragrances,157114.43,1.4,3099
+PRD0140,Dhaliwal-De,Electronics,Laptops,431390.62,4.9,4243
+PRD0141,"Krishna, Doctor and Mahal",Sports & Fitness,Running,65583.44,3.0,2450
+PRD0142,Sethi-Lala,Grocery,Dairy,276351.39,3.1,3940
+PRD0143,Bhakta Group,Toys & Games,Dolls,320682.49,1.2,2777
+PRD0144,"Bhalla, Cheema and Setty",Beauty & Personal Care,Fragrances,365322.18,3.3,2812
+PRD0145,Mann Inc,Sports & Fitness,Running,453082.61,3.9,432
+PRD0146,Luthra-Dhar,Toys & Games,Educational Toys,404258.53,4.4,2828
+PRD0147,Ghosh-Dutta,Toys & Games,Dolls,368957.79,5.0,2721
+PRD0148,"Randhawa, Choudhary and Majumdar",Beauty & Personal Care,Skincare,27874.16,2.1,3501
+PRD0149,"Bal, Kapoor and Ramanathan",Electronics,Tablets,335999.71,4.1,3227
+PRD0150,"Jayaraman, Bala and Bobal",Toys & Games,Puzzles,346198.44,3.2,1205
+PRD0151,Chadha-Hegde,Beauty & Personal Care,Fragrances,262566.67,2.1,1132
+PRD0152,Kade-Dora,Sports & Fitness,Yoga,496559.29,4.7,3255
+PRD0153,Johal Inc,Sports & Fitness,Cricket,333176.44,1.2,3716
+PRD0154,Narayan-Kade,Clothing,Shoes,209673.07,4.5,2066
+PRD0155,"Mittal, Andra and Mody",Clothing,Trousers,311483.01,3.0,4495
+PRD0156,D’Alia and Sons,Sports & Fitness,Gym Equipment,259678.66,3.0,4326
+PRD0157,Nadig Group,Toys & Games,Remote Control Toys,75831.01,3.5,354
+PRD0158,"Randhawa, Chad and Balakrishnan",Toys & Games,Dolls,167900.97,4.8,4468
+PRD0159,Mall-Savant,Toys & Games,Puzzles,486431.31,4.1,1668
+PRD0160,"Sunder, Mangal and Chandra",Clothing,Jackets,252632.65,2.5,452
+PRD0161,"Kaur, Dara and Hans",Beauty & Personal Care,Bath & Body,2513.58,3.2,800
+PRD0162,Kala PLC,Beauty & Personal Care,Bath & Body,359243.43,2.0,2533
+PRD0163,"Mohanty, Khosla and Konda",Sports & Fitness,Yoga,396894.78,2.6,1182
+PRD0164,"Samra, Mittal and Bhatti",Books,Science,21192.22,1.1,168
+PRD0165,Sahota-Mittal,Clothing,T-Shirts,41259.55,2.9,1825
+PRD0166,"Deshpande, Zacharia and Vaidya",Grocery,Dairy,482339.14,2.0,1432
+PRD0167,Garg-Dua,Toys & Games,Remote Control Toys,187116.23,1.8,364
+PRD0168,"Chandra, Virk and Chanda",Grocery,Staples,322768.56,1.8,788
+PRD0169,Parsa-Chacko,Clothing,Sarees,395469.1,4.4,3617
+PRD0170,Sodhi-Kanda,Grocery,Beverages,304034.45,3.5,3602
+PRD0171,"Nayak, Vohra and Chacko",Sports & Fitness,Football,244653.73,1.3,4720
+PRD0172,"Mann, Gupta and Shenoy",Beauty & Personal Care,Hair Care,391302.22,3.7,4476
+PRD0173,Dugar-Dugal,Electronics,Smartwatches,203316.2,1.4,2549
+PRD0174,Chanda-Minhas,Books,Non-Fiction,468347.49,4.5,3445
+PRD0175,"Munshi, Ratti and Gopal",Sports & Fitness,Outdoor Recreation,64060.28,2.8,4738
+PRD0176,Khanna-Kala,Books,Children's Books,62187.17,4.9,4606
+PRD0177,"Subramanian, Luthra and Kaur",Beauty & Personal Care,Fragrances,416799.81,1.2,3427
+PRD0178,"Johal, Wali and Borah",Home & Kitchen,Storage,92916.82,2.2,3822
+PRD0179,Kade-Kuruvilla,Books,History,266939.11,1.1,3258
+PRD0180,Bhatti-Sharma,Clothing,Dresses,110455.66,2.7,1093
+PRD0181,"Magar, Merchant and Mangal",Grocery,Dairy,182672.1,1.3,229
+PRD0182,"Tripathi, Krish and Trivedi",Electronics,Tablets,384713.55,4.7,4943
+PRD0183,Bhasin-Narasimhan,Home & Kitchen,Cookware,442712.73,1.9,4756
+PRD0184,"Sharma, Natt and Sheth",Clothing,Dresses,199268.22,3.7,4178
+PRD0185,"Varughese, Mani and Samra",Sports & Fitness,Running,382123.7,1.2,142
+PRD0186,Issac-Dubey,Clothing,Jeans,153989.47,1.8,2799
+PRD0187,Venkatesh and Sons,Toys & Games,Board Games,459959.6,1.9,1892
+PRD0188,Ratti Inc,Grocery,Dairy,319504.96,4.4,2977
+PRD0189,Ramesh LLC,Sports & Fitness,Cricket,292337.81,4.0,4946
+PRD0190,Kala-Karpe,Clothing,Shirts,409175.78,4.3,2843
+PRD0191,"Swaminathan, Pingle and Madan",Home & Kitchen,Kitchen Appliances,341365.94,1.1,2753
+PRD0192,Pai-Wable,Beauty & Personal Care,Hair Care,427496.73,1.6,802
+PRD0193,Mohan PLC,Clothing,Shoes,367591.73,1.5,435
+PRD0194,"Tank, Rai and Magar",Electronics,Headphones,446793.8,2.4,980
+PRD0195,"Yadav, Nair and Sinha",Beauty & Personal Care,Bath & Body,291033.01,4.3,355
+PRD0196,Suresh Group,Electronics,Tablets,154052.13,4.8,1866
+PRD0197,Murty Inc,Clothing,Shirts,217469.36,4.1,1540
+PRD0198,D’Alia PLC,Books,Children's Books,126993.94,5.0,4257
+PRD0199,"Sarin, Zacharia and Tailor",Books,Self-Help,450827.42,3.7,4088
+PRD0200,"Rajagopal, Suresh and Garde",Clothing,Sarees,447222.3,1.4,1681
+PRD0201,Kapur-Nanda,Books,Self-Help,183966.16,2.3,3134
+PRD0202,"Jain, Bir and Sandal",Toys & Games,Dolls,165292.73,2.9,2524
+PRD0203,Chander LLC,Beauty & Personal Care,Makeup,17047.79,2.8,3370
+PRD0204,Patil-Sodhi,Clothing,Sarees,176114.34,1.2,494
+PRD0205,Narula-Deol,Toys & Games,Dolls,440932.13,2.8,2438
+PRD0206,"Din, Borah and Shah",Electronics,Gaming Consoles,197179.77,1.9,3563
+PRD0207,Dhingra-Khosla,Toys & Games,Board Games,343998.24,3.1,4067
+PRD0208,"Deshmukh, Verma and Khurana",Beauty & Personal Care,Bath & Body,63766.87,3.8,2386
+PRD0209,Baral and Sons,Books,Biography,428885.9,4.9,3701
+PRD0210,"Rama, Rajan and Prabhakar",Books,Self-Help,417928.44,2.1,1794
+PRD0211,Khosla-Kunda,Books,Self-Help,373727.86,4.8,2569
+PRD0212,Goel Group,Clothing,Jeans,251709.96,4.8,3794
+PRD0213,Bhatti Inc,Sports & Fitness,Football,455938.82,2.0,2045
+PRD0214,Sheth-Ben,Beauty & Personal Care,Grooming,336553.54,4.7,3816
+PRD0215,"Agarwal, Deep and Shetty",Clothing,Trousers,424237.74,4.5,2564
+PRD0216,Balay-Guha,Sports & Fitness,Running,499353.57,3.4,3385
+PRD0217,Chokshi PLC,Toys & Games,Action Figures,291586.72,2.7,1533
+PRD0218,"Kakar, Reddy and Taneja",Electronics,Laptops,80392.41,2.6,2567
+PRD0219,Mitra-Tank,Grocery,Bakery,315788.16,2.2,218
+PRD0220,"Andra, Yadav and Kale",Home & Kitchen,Bedding,217566.6,2.6,3653
+PRD0221,Lalla-Memon,Sports & Fitness,Cycling,497286.65,1.1,3345
+PRD0222,"Hayer, Dhaliwal and Sarkar",Books,History,495711.35,3.6,4538
+PRD0223,Dhawan-Wali,Toys & Games,Remote Control Toys,463774.72,3.0,3016
+PRD0224,Menon and Sons,Home & Kitchen,Home Decor,140719.79,2.6,4124
+PRD0225,"Patel, Shroff and Gill",Beauty & Personal Care,Grooming,36390.54,4.8,924
+PRD0226,Vaidya PLC,Home & Kitchen,Storage,473556.93,1.9,1957
+PRD0227,"Vasa, Bahl and Chauhan",Sports & Fitness,Cricket,233563.85,1.8,4712
+PRD0228,Sunder-Char,Beauty & Personal Care,Bath & Body,28490.37,2.7,1090
+PRD0229,Kala-Prashad,Clothing,Shirts,222489.98,3.2,3774
+PRD0230,Dasgupta Ltd,Electronics,Televisions,51870.69,3.1,1557
+PRD0231,Dugar-Sami,Clothing,Jeans,212707.32,1.6,2432
+PRD0232,"Gopal, Bhardwaj and Grewal",Clothing,Dresses,432129.02,2.5,454
+PRD0233,Lalla Group,Beauty & Personal Care,Grooming,444388.32,1.8,2195
+PRD0234,Sinha-Grewal,Beauty & Personal Care,Fragrances,43067.33,2.0,4733
+PRD0235,Barad Inc,Beauty & Personal Care,Grooming,184210.51,2.4,518
+PRD0236,"Halder, Konda and Shetty",Books,History,91060.8,3.4,3854
+PRD0237,Puri Inc,Clothing,Jeans,45392.84,4.2,2738
+PRD0238,"Sathe, Natt and Sastry",Home & Kitchen,Kitchen Appliances,208151.04,1.8,1283
+PRD0239,"D’Alia, Thakur and Bhattacharyya",Books,History,308881.86,3.2,2915
+PRD0240,Vasa PLC,Toys & Games,Board Games,134506.53,3.8,4414
+PRD0241,Sura PLC,Home & Kitchen,Furniture,313050.32,1.9,2424
+PRD0242,"Madan, Dixit and Bedi",Electronics,Cameras,96910.37,3.6,2505
+PRD0243,"Luthra, Taneja and Chauhan",Toys & Games,Remote Control Toys,126540.73,5.0,1903
+PRD0244,"Narula, Joshi and Randhawa",Sports & Fitness,Cricket,253186.64,3.2,600
+PRD0245,"Jaggi, Rama and Ray",Toys & Games,Board Games,141293.88,2.3,4516
+PRD0246,Venkatesh Group,Books,Non-Fiction,244876.34,5.0,2638
+PRD0247,"Sabharwal, Gola and Chhabra",Home & Kitchen,Kitchen Appliances,134623.99,1.8,1644
+PRD0248,Chaudry LLC,Toys & Games,Educational Toys,293696.67,4.5,3067
+PRD0249,Krish-Divan,Home & Kitchen,Storage,486760.78,3.7,3352
+PRD0250,Hora-Pall,Electronics,Gaming Consoles,213435.85,1.7,639
+PRD0251,Sodhi-Bains,Clothing,Shirts,17635.27,1.7,3263
+PRD0252,Dash-Munshi,Beauty & Personal Care,Makeup,106677.12,2.8,4285
+PRD0253,Choudhry LLC,Grocery,Bakery,370166.52,1.7,1706
+PRD0254,Pau-Dada,Books,Biography,401443.93,1.4,4722
+PRD0255,"Lal, Shukla and Devi",Home & Kitchen,Kitchen Appliances,161716.33,1.1,4242
+PRD0256,Arya Group,Clothing,Shoes,469841.46,1.3,4181
+PRD0257,"Cherian, Bhatti and Lad",Clothing,Dresses,25097.81,4.6,3947
+PRD0258,Dutt and Sons,Sports & Fitness,Football,120169.47,1.8,4935
+PRD0259,Munshi-Chad,Toys & Games,Action Figures,158482.78,4.3,3382
+PRD0260,Brar Inc,Grocery,Staples,251438.98,4.8,3813
+PRD0261,Oommen-Toor,Sports & Fitness,Cricket,262484.66,2.3,1092
+PRD0262,Kanda-Bhat,Electronics,Gaming Consoles,71701.07,2.0,4772
+PRD0263,"Korpal, Din and Srinivas",Grocery,Frozen Foods,325576.25,3.5,2661
+PRD0264,Dhingra PLC,Grocery,Snacks,284299.65,1.5,4313
+PRD0265,"Krish, Patel and Sarna",Toys & Games,Educational Toys,276605.28,2.6,1686
+PRD0266,"Nayar, Kapadia and Chaudhary",Clothing,Jeans,51510.64,3.2,4518
+PRD0267,Borde-Sethi,Books,Children's Books,31656.61,4.0,1067
+PRD0268,Ganesan-Walia,Electronics,Smartphones,7811.36,1.8,3102
+PRD0269,"Yogi, Handa and Kulkarni",Beauty & Personal Care,Hair Care,399155.98,2.4,4684
+PRD0270,Banik Group,Toys & Games,Remote Control Toys,59429.4,4.7,1085
+PRD0271,Deshpande-Sethi,Home & Kitchen,Furniture,482671.43,3.8,1282
+PRD0272,"Palla, Wagle and Sood",Clothing,Sarees,288054.49,4.1,1269
+PRD0273,"Pal, Kumar and Purohit",Toys & Games,Board Games,254883.09,4.6,785
+PRD0274,"Taneja, Trivedi and Nagarajan",Electronics,Smartwatches,26901.38,1.9,4909
+PRD0275,"Seth, Bhavsar and Sem",Books,Non-Fiction,377536.84,2.4,4311
+PRD0276,"Bobal, Bhardwaj and Bajaj",Beauty & Personal Care,Bath & Body,219495.98,4.5,3370
+PRD0277,"Kuruvilla, Kamdar and Dalal",Grocery,Dairy,219021.68,4.3,178
+PRD0278,Mukhopadhyay Ltd,Beauty & Personal Care,Bath & Body,183143.31,4.6,2963
+PRD0279,Chahal-Balakrishnan,Electronics,Smartphones,367611.96,4.5,229
+PRD0280,"Manne, Chad and Johal",Home & Kitchen,Cookware,475659.52,3.9,2083
+PRD0281,"Chaudhuri, Madan and Bath",Home & Kitchen,Home Decor,43878.01,2.7,1437
+PRD0282,Krish PLC,Home & Kitchen,Cookware,313838.55,1.6,4848
+PRD0283,Bhardwaj-Mander,Grocery,Frozen Foods,466806.55,4.0,4417
+PRD0284,"Badal, Bedi and Kuruvilla",Toys & Games,Board Games,309320.21,1.5,2936
+PRD0285,Buch LLC,Toys & Games,Board Games,53234.0,3.7,2627
+PRD0286,Panchal-Lanka,Electronics,Laptops,271113.95,3.4,3679
+PRD0287,Uppal-Dara,Sports & Fitness,Outdoor Recreation,20378.33,2.9,2406
+PRD0288,Dugar Group,Home & Kitchen,Bedding,159225.07,4.5,3208
+PRD0289,"Sawhney, Mannan and Ben",Sports & Fitness,Cricket,484419.64,3.5,4444
+PRD0290,Minhas Ltd,Electronics,Headphones,319785.27,2.2,1931
+PRD0291,"Bahri, Anne and Raju",Grocery,Beverages,86034.61,4.3,1754
+PRD0292,Walla Group,Sports & Fitness,Outdoor Recreation,470579.02,1.9,4817
+PRD0293,Talwar PLC,Beauty & Personal Care,Makeup,132001.56,4.8,1890
+PRD0294,Wason Inc,Electronics,Laptops,248756.76,1.8,1184
+PRD0295,"Kapoor, Mohan and Chhabra",Electronics,Laptops,248395.69,3.7,4812
+PRD0296,Mangat PLC,Clothing,Jackets,283660.66,1.8,517
+PRD0297,"Doctor, Yogi and Upadhyay",Toys & Games,Board Games,122519.49,1.8,1859
+PRD0298,Bobal Group,Books,Self-Help,319795.91,2.3,161
+PRD0299,"Ratti, Chanda and Wali",Books,History,323143.26,1.8,3422
+PRD0300,"Barad, Tandon and Mallick",Sports & Fitness,Yoga,417802.54,2.3,4958
+PRD0301,Bahl Group,Grocery,Frozen Foods,7480.96,4.3,1697
+PRD0302,Bir-Sen,Beauty & Personal Care,Fragrances,429435.64,4.7,102
+PRD0303,Hayer-Lad,Electronics,Headphones,159069.03,3.3,568
+PRD0304,Ram-Parmar,Clothing,Jeans,150917.76,3.5,1879
+PRD0305,Varty-Bajaj,Home & Kitchen,Lighting,28514.31,3.1,1225
+PRD0306,"Sibal, Wali and Mishra",Sports & Fitness,Football,189592.38,3.4,2685
+PRD0307,Sunder Group,Beauty & Personal Care,Makeup,126220.86,3.9,3182
+PRD0308,"Merchant, Kakar and Boase",Grocery,Bakery,70787.83,4.1,1440
+PRD0309,"Ram, Iyengar and Padmanabhan",Grocery,Bakery,36029.14,4.4,692
+PRD0310,Kala LLC,Grocery,Fruits & Vegetables,91658.23,4.0,4499
+PRD0311,"Bhalla, Ramakrishnan and Sahni",Grocery,Beverages,76425.13,2.6,1840
+PRD0312,Varughese LLC,Home & Kitchen,Cookware,309777.57,2.0,4071
+PRD0313,"Arora, Viswanathan and Krishna",Home & Kitchen,Cookware,248044.63,2.0,4820
+PRD0314,Singh PLC,Books,Children's Books,145467.21,3.0,2199
+PRD0315,"Borde, Oak and Sawhney",Books,Biography,67666.1,4.9,680
+PRD0316,Modi Inc,Beauty & Personal Care,Bath & Body,418760.08,3.8,1376
+PRD0317,Samra Ltd,Toys & Games,Educational Toys,246252.59,3.0,4729
+PRD0318,Ghose Ltd,Electronics,Gaming Consoles,13345.53,3.0,2474
+PRD0319,Prashad-Agarwal,Beauty & Personal Care,Skincare,418577.73,1.4,3248
+PRD0320,Yogi PLC,Home & Kitchen,Kitchen Appliances,34695.8,5.0,4034
+PRD0321,Narula Ltd,Sports & Fitness,Cycling,37465.87,3.8,794
+PRD0322,"Kar, Morar and Chowdhury",Toys & Games,Remote Control Toys,11015.23,2.0,307
+PRD0323,"Kota, Rai and Kulkarni",Books,Non-Fiction,171393.79,4.3,4393
+PRD0324,Bandi Group,Books,Fiction,437135.04,4.9,935
+PRD0325,Srivastava LLC,Home & Kitchen,Kitchen Appliances,311343.01,3.4,270
+PRD0326,"Shetty, Sarkar and Andra",Toys & Games,Action Figures,420915.05,2.9,4970
+PRD0327,Sani and Sons,Sports & Fitness,Outdoor Recreation,127706.45,2.8,3740
+PRD0328,Khanna-Chaudhry,Toys & Games,Puzzles,61902.25,2.9,4631
+PRD0329,"Kant, Bhatt and Ravi",Sports & Fitness,Cricket,40263.52,3.1,4998
+PRD0330,Bhalla-Chadha,Clothing,Jeans,206797.76,4.5,4695
+PRD0331,Hegde and Sons,Electronics,Televisions,268421.48,3.7,876
+PRD0332,"Bora, Doctor and Vyas",Books,Biography,272249.32,2.8,449
+PRD0333,Tripathi LLC,Beauty & Personal Care,Makeup,251005.81,1.7,3160
+PRD0334,Dalal and Sons,Beauty & Personal Care,Skincare,395182.8,3.5,3839
+PRD0335,Chatterjee-Ganesan,Clothing,Trousers,120356.18,1.8,1797
+PRD0336,"Nadkarni, Viswanathan and Singhal",Home & Kitchen,Bedding,304544.51,1.1,2132
+PRD0337,Chaudry LLC,Beauty & Personal Care,Bath & Body,250697.44,2.8,524
+PRD0338,Rajagopalan-Setty,Books,Biography,195645.41,4.5,1243
+PRD0339,Pal Ltd,Clothing,Shoes,408007.41,4.2,37
+PRD0340,Tripathi PLC,Books,Biography,61873.66,1.4,398
+PRD0341,Bansal Ltd,Electronics,Headphones,328048.48,2.4,3258
+PRD0342,Edwin-Venkatesh,Toys & Games,Educational Toys,284358.28,4.0,2628
+PRD0343,"Kadakia, Dixit and Khanna",Toys & Games,Educational Toys,39399.13,4.7,174
+PRD0344,Pathak-Contractor,Clothing,Shoes,71241.49,1.5,524
+PRD0345,Kannan and Sons,Electronics,Televisions,481363.4,1.4,2486
+PRD0346,Rajagopalan-Bandi,Clothing,Shoes,489236.03,3.4,3619
+PRD0347,Manda-Mangal,Grocery,Snacks,316813.1,4.0,4071
+PRD0348,"Mani, Nagi and Ramakrishnan",Clothing,Jeans,49503.5,1.6,2409
+PRD0349,"Bawa, Gera and Merchant",Sports & Fitness,Football,347263.57,4.1,1403
+PRD0350,Ravi PLC,Electronics,Cameras,117146.45,3.2,4370
+PRD0351,Jhaveri Group,Grocery,Frozen Foods,213059.7,1.1,676
+PRD0352,"Balan, Pant and Gill",Beauty & Personal Care,Makeup,107362.57,1.2,663
+PRD0353,Chad-Deol,Clothing,Shoes,283640.21,1.1,2523
+PRD0354,Divan-Halder,Clothing,Dresses,484265.29,2.5,2163
+PRD0355,Tara Inc,Home & Kitchen,Storage,328218.0,2.0,4094
+PRD0356,"Rama, Modi and Mohanty",Toys & Games,Puzzles,447445.45,4.1,2404
+PRD0357,Rajagopal-Basu,Electronics,Headphones,22283.08,4.1,2677
+PRD0358,"Gola, Chokshi and Chaudhari",Beauty & Personal Care,Hair Care,56119.57,1.4,759
+PRD0359,Parsa-Minhas,Home & Kitchen,Storage,223411.48,3.1,4780
+PRD0360,Sandhu-Sampath,Clothing,Jackets,288846.93,3.3,2784
+PRD0361,Ben-Ranganathan,Beauty & Personal Care,Makeup,365624.7,4.7,3031
+PRD0362,Konda LLC,Clothing,Jeans,486036.29,2.2,1629
+PRD0363,Rajagopal-Ahuja,Sports & Fitness,Running,332049.21,1.6,4747
+PRD0364,"Babu, Vasa and Mohan",Toys & Games,Dolls,327801.04,4.3,3202
+PRD0365,"Ratta, Dani and Ghosh",Sports & Fitness,Yoga,74809.6,1.0,3600
+PRD0366,Bora-Rastogi,Books,Biography,325775.78,3.3,2569
+PRD0367,Natarajan and Sons,Electronics,Televisions,259157.27,4.6,145
+PRD0368,Bajaj Ltd,Clothing,Jeans,41428.07,4.2,1377
+PRD0369,Thakkar-Bera,Grocery,Fruits & Vegetables,217054.57,4.6,1745
+PRD0370,Deshpande Inc,Sports & Fitness,Running,394986.76,3.0,781
+PRD0371,Lal and Sons,Beauty & Personal Care,Bath & Body,80295.28,1.9,3432
+PRD0372,Patil-Vaidya,Beauty & Personal Care,Makeup,11186.02,1.7,4992
+PRD0373,"Sampath, Seshadri and Sibal",Home & Kitchen,Storage,129369.28,3.9,3554
+PRD0374,Thakkar Ltd,Beauty & Personal Care,Skincare,182867.71,3.3,3845
+PRD0375,Sule Inc,Sports & Fitness,Outdoor Recreation,338428.64,4.5,3556
+PRD0376,Pingle-Brahmbhatt,Clothing,Trousers,50601.95,2.5,1038
+PRD0377,"Prakash, Basu and Iyer",Books,History,174466.08,4.4,42
+PRD0378,Saran PLC,Sports & Fitness,Cycling,293062.88,2.6,1237
+PRD0379,Agarwal PLC,Clothing,Shoes,7566.07,4.8,441
+PRD0380,Krish LLC,Sports & Fitness,Outdoor Recreation,287266.29,1.7,1105
+PRD0381,"Hora, Sant and Kohli",Electronics,Laptops,418034.68,1.7,4348
+PRD0382,Sridhar Ltd,Grocery,Dairy,457969.15,3.1,4451
+PRD0383,Ganesan-Aurora,Sports & Fitness,Outdoor Recreation,419182.0,4.5,773
+PRD0384,Sandhu-Chakraborty,Electronics,Headphones,402804.3,2.8,3053
+PRD0385,"Contractor, Nori and Chada",Toys & Games,Action Figures,282887.49,2.6,1586
+PRD0386,"Bains, Banerjee and Bose",Home & Kitchen,Storage,381716.79,4.4,317
+PRD0387,"Nori, Bhatt and Char",Beauty & Personal Care,Bath & Body,369271.77,2.8,4098
+PRD0388,Kothari Inc,Books,Children's Books,212794.03,5.0,1817
+PRD0389,Bhandari-Dyal,Grocery,Dairy,385961.68,1.7,2014
+PRD0390,Divan-Dugar,Beauty & Personal Care,Grooming,401986.29,3.6,2528
+PRD0391,Nigam Group,Home & Kitchen,Kitchen Appliances,126891.71,3.9,4774
+PRD0392,"Gill, Patla and Atwal",Toys & Games,Action Figures,249841.7,1.7,1411
+PRD0393,Rana LLC,Clothing,Jackets,132764.27,2.5,2017
+PRD0394,"Srinivas, Bhavsar and Sagar",Grocery,Frozen Foods,278794.33,2.8,3937
+PRD0395,"Halder, Dhar and Chaudry",Grocery,Beverages,499741.53,2.7,3286
+PRD0396,Mohan-Deo,Books,Biography,389374.75,3.7,3664
+PRD0397,"Sharaf, Shetty and Badami",Grocery,Fruits & Vegetables,123082.93,4.2,1746
+PRD0398,Warrior-Behl,Toys & Games,Dolls,297600.12,3.6,3900
+PRD0399,"Sarna, Kari and Munshi",Grocery,Dairy,119896.09,2.4,977
+PRD0400,Wason Group,Clothing,Jackets,236491.91,3.5,1630
+PRD0401,"Mall, Yogi and Srivastava",Beauty & Personal Care,Bath & Body,3225.61,2.5,2635
+PRD0402,De Inc,Sports & Fitness,Yoga,257726.77,3.2,447
+PRD0403,"Kalita, Hegde and Murthy",Toys & Games,Dolls,277773.89,1.9,3230
+PRD0404,Chana and Sons,Toys & Games,Remote Control Toys,28934.96,4.4,4779
+PRD0405,Kale-Pal,Clothing,Trousers,171605.92,1.5,329
+PRD0406,"Chaudhary, Bhatt and Palla",Toys & Games,Action Figures,383243.16,3.1,558
+PRD0407,Kunda-Hayer,Books,Non-Fiction,112818.92,1.4,2224
+PRD0408,Dutt-Mahajan,Books,Science,379974.0,2.3,3273
+PRD0409,Ram-Balan,Sports & Fitness,Outdoor Recreation,141151.06,3.6,2812
+PRD0410,Banerjee Ltd,Books,Science,375658.1,4.9,2627
+PRD0411,"Kale, Varkey and Shah",Sports & Fitness,Running,314582.0,1.1,501
+PRD0412,"Swamy, Sem and Sabharwal",Clothing,Dresses,332209.89,2.4,2947
+PRD0413,Ghosh Ltd,Toys & Games,Remote Control Toys,219284.56,2.2,3774
+PRD0414,"Magar, Nori and Setty",Home & Kitchen,Cookware,404646.47,1.9,1106
+PRD0415,"Chaudhuri, Thaker and Shenoy",Clothing,Jeans,379456.13,2.3,4611
+PRD0416,Sastry-Panchal,Electronics,Tablets,245397.38,3.2,2051
+PRD0417,"Mittal, Korpal and Mannan",Home & Kitchen,Kitchen Appliances,320388.29,1.5,1892
+PRD0418,Borah Inc,Grocery,Frozen Foods,14440.45,3.9,2523
+PRD0419,Dhar Group,Sports & Fitness,Cycling,440720.8,4.8,181
+PRD0420,Sani Inc,Electronics,Gaming Consoles,151431.53,1.7,4281
+PRD0421,Ahuja-Rajan,Grocery,Dairy,119515.57,1.5,1270
+PRD0422,Pradhan-Bera,Clothing,Dresses,405611.47,1.1,3355
+PRD0423,Sarma-Kalita,Electronics,Gaming Consoles,300992.71,4.4,2737
+PRD0424,"Lal, Nair and Subramanian",Sports & Fitness,Cricket,244732.68,2.8,3098
+PRD0425,Pandey and Sons,Grocery,Snacks,293030.07,4.2,2521
+PRD0426,Iyengar-Handa,Books,Self-Help,455425.53,3.5,2057
+PRD0427,Mangat PLC,Home & Kitchen,Cookware,62385.96,5.0,131
+PRD0428,Nigam-Nayak,Toys & Games,Board Games,80981.76,3.2,1208
+PRD0429,Gaba Group,Electronics,Televisions,84478.67,2.7,4790
+PRD0430,Butala-Mallick,Sports & Fitness,Running,100459.99,4.3,29
+PRD0431,"Dani, Venkataraman and Ravi",Beauty & Personal Care,Fragrances,180900.9,3.7,3115
+PRD0432,Warrior-Varty,Books,Fiction,108369.1,4.8,2689
+PRD0433,Palla Group,Electronics,Headphones,389553.4,1.8,4710
+PRD0434,"Pathak, Bakshi and Mitter",Electronics,Smartwatches,354742.21,1.7,1100
+PRD0435,Savant-Shetty,Books,History,396485.92,4.6,2246
+PRD0436,Borde PLC,Clothing,Trousers,8224.67,4.8,2107
+PRD0437,"Trivedi, Saha and Pai",Electronics,Tablets,278819.26,2.3,3669
+PRD0438,Rana-Ratta,Sports & Fitness,Cycling,185862.82,4.1,2834
+PRD0439,Dave PLC,Grocery,Bakery,92425.6,3.1,3861
+PRD0440,"Goswami, Mohan and Khurana",Electronics,Headphones,13976.0,2.4,2495
+PRD0441,"Chaudry, Vaidya and Sengupta",Electronics,Cameras,402206.34,3.1,4629
+PRD0442,"Prasad, Mitra and Singh",Beauty & Personal Care,Makeup,465783.01,2.3,466
+PRD0443,"Kohli, Thakur and Parmar",Beauty & Personal Care,Fragrances,450257.21,2.3,721
+PRD0444,Krishnan Ltd,Beauty & Personal Care,Makeup,244857.38,4.0,3563
+PRD0445,Bhat and Sons,Grocery,Dairy,432469.59,1.3,611
+PRD0446,"Bandi, Tripathi and Deshpande",Grocery,Fruits & Vegetables,2640.18,4.9,2397
+PRD0447,"Kale, Shankar and Chakrabarti",Books,Biography,344400.91,2.1,4990
+PRD0448,Pant PLC,Beauty & Personal Care,Makeup,314809.29,4.8,1574
+PRD0449,Rajagopal-Edwin,Grocery,Frozen Foods,369055.1,3.0,616
+PRD0450,Sinha Ltd,Home & Kitchen,Bedding,418012.85,2.7,4764
+PRD0451,Shere PLC,Books,Science,381328.13,1.2,4870
+PRD0452,Banerjee Group,Grocery,Snacks,304815.69,4.7,4891
+PRD0453,"Chaudhry, Bath and Divan",Beauty & Personal Care,Fragrances,262280.87,2.5,2194
+PRD0454,"Varughese, Mane and Som",Sports & Fitness,Running,74767.36,4.6,4094
+PRD0455,"Tata, Kale and Lad",Home & Kitchen,Storage,258313.81,3.2,4406
+PRD0456,Borde and Sons,Electronics,Gaming Consoles,256185.33,3.0,13
+PRD0457,"Raj, Chacko and Chauhan",Electronics,Gaming Consoles,450517.49,3.6,1802
+PRD0458,"Savant, Raj and Khare",Beauty & Personal Care,Fragrances,204299.89,2.0,529
+PRD0459,Vaidya-Balay,Grocery,Staples,423565.32,3.6,2817
+PRD0460,Sachar-Das,Grocery,Dairy,161927.39,2.6,1388
+PRD0461,"Talwar, Sood and Rout",Beauty & Personal Care,Bath & Body,289926.23,4.4,25
+PRD0462,Singh-Sen,Electronics,Televisions,156105.69,5.0,622
+PRD0463,Pau Ltd,Electronics,Tablets,24303.03,3.5,2402
+PRD0464,"Batta, Chawla and Seth",Home & Kitchen,Home Decor,206183.16,2.7,809
+PRD0465,"Sawhney, Parekh and Chanda",Home & Kitchen,Bedding,449306.88,4.7,210
+PRD0466,"Kumer, Nayak and Sura",Beauty & Personal Care,Hair Care,135125.57,2.8,3934
+PRD0467,Wali Ltd,Sports & Fitness,Football,74123.04,1.9,4801
+PRD0468,Saran Ltd,Grocery,Bakery,464481.36,3.0,4599
+PRD0469,"Devi, Chacko and Ratti",Clothing,Jeans,133106.62,3.9,382
+PRD0470,"Nori, Kibe and Amble",Home & Kitchen,Furniture,282322.76,3.4,804
+PRD0471,Shenoy-Wali,Electronics,Televisions,216734.98,2.0,296
+PRD0472,"Bava, Borah and Lalla",Beauty & Personal Care,Bath & Body,432456.94,3.8,3859
+PRD0473,"Aggarwal, Bajwa and Chhabra",Books,Science,479726.66,4.4,2549
+PRD0474,Bhat-Chopra,Clothing,Dresses,228298.1,1.7,4181
+PRD0475,Iyengar Group,Sports & Fitness,Running,187942.29,4.3,4393
+PRD0476,Jani PLC,Beauty & Personal Care,Skincare,133928.89,1.6,3845
+PRD0477,D’Alia-Mann,Home & Kitchen,Storage,229713.94,4.4,896
+PRD0478,Khalsa Group,Home & Kitchen,Lighting,306836.42,2.3,1464
+PRD0479,Shenoy-Bhatti,Grocery,Bakery,382492.46,2.5,4475
+PRD0480,Handa Group,Clothing,Shirts,192534.51,1.6,1985
+PRD0481,Patla LLC,Electronics,Cameras,259575.52,1.7,3184
+PRD0482,Khalsa and Sons,Grocery,Fruits & Vegetables,286000.13,4.5,3287
+PRD0483,Nadkarni-Nori,Toys & Games,Board Games,457217.05,4.0,2744
+PRD0484,"Contractor, Guha and Kala",Electronics,Laptops,411674.03,4.4,1240
+PRD0485,"Wason, Bobal and Bandi",Toys & Games,Remote Control Toys,32645.18,3.7,325
+PRD0486,Bir PLC,Beauty & Personal Care,Fragrances,333995.37,4.3,1235
+PRD0487,"Tandon, Kaur and Deshpande",Sports & Fitness,Gym Equipment,417899.62,4.9,2706
+PRD0488,Brar-Srivastava,Sports & Fitness,Cycling,113006.67,2.3,2443
+PRD0489,Karpe-Luthra,Electronics,Headphones,18581.92,1.5,1155
+PRD0490,Sidhu LLC,Sports & Fitness,Cycling,71859.02,2.5,4541
+PRD0491,"Ram, Malhotra and Shere",Grocery,Snacks,169339.24,2.9,1621
+PRD0492,Sachdeva-Murthy,Clothing,T-Shirts,484004.12,3.1,104
+PRD0493,Hegde Inc,Books,Non-Fiction,463630.33,2.6,2812
+PRD0494,Borah-Arya,Toys & Games,Board Games,486472.9,1.5,1098
+PRD0495,Sinha-Nagy,Clothing,Dresses,290468.87,3.6,1408
+PRD0496,Sarma and Sons,Sports & Fitness,Cycling,76825.62,4.6,2287
+PRD0497,Kurian Inc,Sports & Fitness,Football,407483.68,3.8,2223
+PRD0498,Nayak-Sarma,Books,Self-Help,137312.73,3.0,1232
+PRD0499,"Varty, Contractor and Kannan",Electronics,Gaming Consoles,115477.15,4.6,1722
+PRD0500,Chokshi-Sha,Sports & Fitness,Football,127359.0,4.1,1041
+PRD0501,Mishra Ltd,Beauty & Personal Care,Grooming,174065.87,1.3,4024
+PRD0502,Kuruvilla-Misra,Clothing,T-Shirts,38772.73,2.7,4781
+PRD0503,"Gola, Jaggi and Amble",Books,Non-Fiction,116478.25,2.9,330
+PRD0504,"Lall, Raju and Batra",Grocery,Beverages,151643.81,5.0,3706
+PRD0505,"Dugar, Sahni and Datta",Beauty & Personal Care,Fragrances,261980.31,1.9,3378
+PRD0506,"Dugar, Raval and Raghavan",Home & Kitchen,Home Decor,386595.81,1.3,2898
+PRD0507,Aurora-Prabhu,Books,Fiction,191744.36,2.3,3704
+PRD0508,Mittal Group,Books,Children's Books,35470.73,1.7,3695
+PRD0509,"Bhakta, Nadkarni and Gupta",Beauty & Personal Care,Fragrances,449794.29,4.9,1298
+PRD0510,Shenoy-Dugar,Sports & Fitness,Running,343463.54,4.2,3505
+PRD0511,Date PLC,Grocery,Snacks,303669.84,4.1,2516
+PRD0512,Thakkar LLC,Home & Kitchen,Furniture,387150.71,1.5,2649
+PRD0513,"Bhatt, Batta and Raj",Sports & Fitness,Cricket,20899.02,3.1,1778
+PRD0514,"Kalita, Raj and Chahal",Clothing,Shoes,379261.29,2.3,4975
+PRD0515,"Balan, Prabhakar and Thakkar",Home & Kitchen,Home Decor,140795.33,3.7,1891
+PRD0516,Bhavsar LLC,Electronics,Gaming Consoles,499874.45,2.7,3171
+PRD0517,D’Alia LLC,Grocery,Bakery,207791.06,1.7,208
+PRD0518,Sandhu and Sons,Beauty & Personal Care,Makeup,474169.56,1.3,459
+PRD0519,Ben-Kumar,Toys & Games,Dolls,281491.29,2.5,4732
+PRD0520,"Joshi, Chaudhuri and Magar",Beauty & Personal Care,Grooming,42374.24,1.8,2106
+PRD0521,Bath-Sodhi,Beauty & Personal Care,Fragrances,353537.62,1.9,3899
+PRD0522,Das Ltd,Electronics,Televisions,328180.65,1.2,1511
+PRD0523,"Doctor, Vala and Lad",Electronics,Laptops,59976.42,2.2,2757
+PRD0524,Borra Ltd,Sports & Fitness,Gym Equipment,312738.42,2.8,1980
+PRD0525,Mahal PLC,Grocery,Frozen Foods,26009.09,3.5,3786
+PRD0526,"Ghosh, Chander and Kaul",Home & Kitchen,Kitchen Appliances,341793.28,3.2,688
+PRD0527,Narula-Mukhopadhyay,Books,History,81723.08,4.4,3480
+PRD0528,Gupta Ltd,Home & Kitchen,Lighting,320836.96,2.5,3801
+PRD0529,Dayal-Loyal,Beauty & Personal Care,Bath & Body,178140.65,2.6,2466
+PRD0530,Rau-Bajaj,Beauty & Personal Care,Grooming,146632.15,3.4,2157
+PRD0531,"Kalla, Shere and Saran",Beauty & Personal Care,Makeup,128420.53,3.2,913
+PRD0532,"Prakash, Nath and Rai",Beauty & Personal Care,Hair Care,111402.44,4.8,4062
+PRD0533,Nath PLC,Clothing,Jackets,296250.41,2.9,1000
+PRD0534,Korpal Group,Toys & Games,Educational Toys,76076.88,1.1,1343
+PRD0535,"Nath, Raghavan and Sinha",Home & Kitchen,Furniture,159300.04,5.0,2670
+PRD0536,Balan-Chauhan,Sports & Fitness,Cycling,311946.86,4.0,2364
+PRD0537,"Rau, Grover and Mangal",Sports & Fitness,Running,130415.94,1.2,4974
+PRD0538,Tailor-Borah,Home & Kitchen,Lighting,465957.48,4.5,79
+PRD0539,"Rajagopalan, Soni and Arora",Sports & Fitness,Outdoor Recreation,57940.75,1.7,3600
+PRD0540,"Deol, Narain and Krishnamurthy",Books,Biography,241914.95,4.8,3409
+PRD0541,Mall-Rajagopalan,Clothing,Shirts,164140.75,1.6,3042
+PRD0542,Chokshi-Randhawa,Clothing,Dresses,376244.05,2.9,4333
+PRD0543,"Varty, Nori and Nadig",Grocery,Snacks,113918.93,3.7,473
+PRD0544,"Comar, Mital and Peri",Sports & Fitness,Yoga,351498.63,3.8,1751
+PRD0545,Dutta-Saha,Toys & Games,Remote Control Toys,287988.76,3.8,4363
+PRD0546,"Chanda, Balasubramanian and Oommen",Home & Kitchen,Storage,20751.92,1.1,4289
+PRD0547,"Zacharia, Balan and Agrawal",Grocery,Fruits & Vegetables,247215.84,2.6,3279
+PRD0548,Purohit Group,Books,Self-Help,466203.13,1.2,903
+PRD0549,Jayaraman Inc,Sports & Fitness,Yoga,278574.72,4.3,3303
+PRD0550,"Shan, Krish and Naik",Home & Kitchen,Bedding,449112.02,4.5,3963
+PRD0551,Mall and Sons,Home & Kitchen,Storage,150040.96,4.5,822
+PRD0552,Guha Ltd,Sports & Fitness,Gym Equipment,342875.2,3.3,3993
+PRD0553,Hayer Ltd,Beauty & Personal Care,Makeup,110626.35,1.9,1978
+PRD0554,Dube-Dave,Grocery,Fruits & Vegetables,397170.23,1.8,4039
+PRD0555,Maharaj-Pillai,Toys & Games,Dolls,237730.62,1.9,624
+PRD0556,Deshmukh-Reddy,Home & Kitchen,Bedding,157872.38,3.9,1320
+PRD0557,"Sachar, Sidhu and Hayre",Books,Science,145982.77,5.0,4703
+PRD0558,"Mane, Nigam and Manne",Beauty & Personal Care,Skincare,387479.9,1.8,3250
+PRD0559,Naik-Ramaswamy,Toys & Games,Board Games,412806.94,4.0,366
+PRD0560,Narain-Sharaf,Electronics,Cameras,268038.22,4.3,3255
+PRD0561,"Peri, Bala and Cheema",Home & Kitchen,Bedding,117963.58,3.7,1414
+PRD0562,Loke Inc,Home & Kitchen,Home Decor,372541.47,4.6,1292
+PRD0563,"Luthra, Dasgupta and Mangal",Sports & Fitness,Yoga,481029.59,4.4,3001
+PRD0564,Chacko-Mody,Toys & Games,Remote Control Toys,429791.63,4.5,4754
+PRD0565,Naidu-Dhaliwal,Toys & Games,Action Figures,336181.09,2.5,2001
+PRD0566,Banerjee-Modi,Beauty & Personal Care,Skincare,490663.38,3.9,4831
+PRD0567,Chander-Konda,Books,Self-Help,240435.35,2.0,4042
+PRD0568,"Zachariah, Handa and Tiwari",Books,Science,289859.5,4.6,1426
+PRD0569,Mangat-Ganguly,Books,Science,131038.86,4.1,1964
+PRD0570,Sabharwal Group,Beauty & Personal Care,Bath & Body,251170.4,4.9,1736
+PRD0571,Kaur-Bava,Grocery,Bakery,476165.3,1.7,1436
+PRD0572,Bajwa Ltd,Sports & Fitness,Football,448724.27,4.3,4099
+PRD0573,Bandi-Gopal,Home & Kitchen,Kitchen Appliances,175769.62,1.4,2903
+PRD0574,"Suri, Chatterjee and Arora",Books,Children's Books,402163.07,3.0,2087
+PRD0575,Jaggi Inc,Grocery,Staples,325253.23,1.2,38
+PRD0576,Nanda-Dey,Electronics,Laptops,113811.56,4.3,827
+PRD0577,Sinha Ltd,Books,Non-Fiction,146349.52,3.7,2425
+PRD0578,Bhattacharyya-Bhatti,Beauty & Personal Care,Bath & Body,494167.71,1.3,35
+PRD0579,"Balakrishnan, Bora and Kaul",Home & Kitchen,Kitchen Appliances,163261.73,2.7,2211
+PRD0580,Chatterjee-Gopal,Home & Kitchen,Lighting,391109.22,1.3,2662
+PRD0581,Sandal-Kumar,Sports & Fitness,Outdoor Recreation,181384.25,1.8,3871
+PRD0582,Deol LLC,Clothing,T-Shirts,93486.1,3.9,3671
+PRD0583,"Mahajan, Bajaj and Borde",Sports & Fitness,Cycling,175824.78,1.6,2122
+PRD0584,Varkey-Mistry,Grocery,Snacks,336945.29,2.1,208
+PRD0585,Master LLC,Beauty & Personal Care,Grooming,403663.15,3.5,4145
+PRD0586,Gopal Ltd,Clothing,Sarees,454851.53,3.1,881
+PRD0587,Handa-Verma,Toys & Games,Dolls,134463.91,4.6,2100
+PRD0588,Nagarajan PLC,Beauty & Personal Care,Grooming,116222.78,1.9,2128
+PRD0589,Chandra PLC,Beauty & Personal Care,Makeup,497145.92,4.3,3229
+PRD0590,Goel Ltd,Clothing,Shirts,27079.31,3.2,4688
+PRD0591,Mane-Malhotra,Grocery,Dairy,278924.26,3.5,3769
+PRD0592,Khalsa-Lanka,Home & Kitchen,Lighting,289106.2,4.7,983
+PRD0593,"Rau, Dugar and Bhargava",Electronics,Headphones,152240.31,3.7,106
+PRD0594,Kapadia-Raghavan,Electronics,Cameras,416705.86,4.9,3285
+PRD0595,Kaul-Deshmukh,Home & Kitchen,Kitchen Appliances,68955.26,2.0,3345
+PRD0596,Prabhu-Deshmukh,Electronics,Cameras,194895.06,3.5,1880
+PRD0597,Dani-Ram,Clothing,Shirts,63537.83,3.3,2677
+PRD0598,"Pillai, Boase and Vala",Home & Kitchen,Cookware,307146.21,2.0,2988
+PRD0599,"Vasa, Dasgupta and Verma",Toys & Games,Action Figures,143786.53,3.0,3572
+PRD0600,Jain-Choudhary,Electronics,Headphones,381581.84,4.3,4944
+PRD0601,Savant-Nagar,Clothing,Sarees,188003.12,3.9,1186
+PRD0602,Wadhwa-Bobal,Home & Kitchen,Cookware,167614.67,2.9,4031
+PRD0603,"Mody, Dar and Hari",Sports & Fitness,Outdoor Recreation,338163.18,3.8,412
+PRD0604,"Wable, Bala and Madan",Clothing,Jackets,55662.65,4.0,4548
+PRD0605,Wadhwa-Mitter,Books,Children's Books,264670.42,2.4,371
+PRD0606,Datta-Seshadri,Sports & Fitness,Running,58545.66,3.6,3230
+PRD0607,Kamdar PLC,Grocery,Snacks,257511.87,2.0,1623
+PRD0608,Natt PLC,Home & Kitchen,Kitchen Appliances,283793.04,1.2,3228
+PRD0609,Srinivas Group,Grocery,Frozen Foods,461335.82,3.7,88
+PRD0610,"Behl, Balakrishnan and Merchant",Books,History,479504.43,3.7,3715
+PRD0611,Joshi-Dora,Clothing,Trousers,193493.54,2.4,2711
+PRD0612,Chauhan-Thakkar,Beauty & Personal Care,Makeup,357151.54,3.3,1727
+PRD0613,Apte Inc,Toys & Games,Remote Control Toys,34557.59,3.7,3415
+PRD0614,Boase-Rastogi,Sports & Fitness,Cricket,111501.9,2.5,4564
+PRD0615,"Kannan, Khosla and Bal",Grocery,Frozen Foods,309771.57,3.7,4100
+PRD0616,Parsa-Ahuja,Clothing,Trousers,19332.36,3.3,84
+PRD0617,"Lalla, Kakar and Kale",Clothing,Shirts,272889.15,4.7,3624
+PRD0618,"Yadav, Menon and Kulkarni",Clothing,T-Shirts,205782.42,3.0,1236
+PRD0619,"Tank, Kale and Thaman",Electronics,Laptops,237298.04,4.4,4726
+PRD0620,Sahni-Chahal,Grocery,Beverages,383111.41,4.5,3539
+PRD0621,Dewan-Gade,Electronics,Tablets,467827.37,2.3,1784
+PRD0622,"Karan, Menon and Mammen",Toys & Games,Action Figures,94697.55,2.4,4650
+PRD0623,Tata-Jha,Clothing,Shoes,440872.68,2.5,2395
+PRD0624,"Saha, Dave and Gala",Clothing,Sarees,16372.79,1.3,4360
+PRD0625,Rattan and Sons,Sports & Fitness,Football,112489.78,1.2,51
+PRD0626,Rajan-Batra,Books,History,107714.25,4.2,4748
+PRD0627,Nagy-Chada,Grocery,Bakery,393537.09,2.4,161
+PRD0628,Agarwal-Chhabra,Home & Kitchen,Bedding,273070.51,2.1,1374
+PRD0629,"Kara, Kant and Bhavsar",Home & Kitchen,Kitchen Appliances,197064.56,2.2,2448
+PRD0630,Vaidya LLC,Grocery,Fruits & Vegetables,186659.87,2.8,1764
+PRD0631,"Dass, Gaba and Dave",Home & Kitchen,Bedding,278500.79,1.3,2054
+PRD0632,Choudhry-Varma,Clothing,T-Shirts,185425.93,1.9,1860
+PRD0633,"Babu, Kanda and Bains",Electronics,Tablets,284414.07,4.7,103
+PRD0634,Jha Ltd,Sports & Fitness,Running,87769.43,3.5,1600
+PRD0635,Deol LLC,Home & Kitchen,Bedding,396531.33,3.2,2030
+PRD0636,Biswas-Ranganathan,Sports & Fitness,Outdoor Recreation,342103.33,2.2,4147
+PRD0637,"Kumer, Golla and Babu",Electronics,Laptops,357349.95,2.6,4251
+PRD0638,"Vala, Gour and Kara",Home & Kitchen,Bedding,205679.69,3.0,53
+PRD0639,"Subramaniam, Bains and Pingle",Clothing,Jackets,373533.47,4.0,2124
+PRD0640,"Ravel, Goel and Brar",Sports & Fitness,Outdoor Recreation,61100.99,4.0,2709
+PRD0641,Ganesh and Sons,Beauty & Personal Care,Grooming,8698.24,4.4,2030
+PRD0642,"Cheema, Wali and Solanki",Toys & Games,Board Games,18027.53,4.0,791
+PRD0643,"Ganesan, Mammen and Desai",Sports & Fitness,Gym Equipment,188252.52,5.0,3368
+PRD0644,"Deshpande, Bahri and Bhandari",Toys & Games,Dolls,363392.56,3.2,4789
+PRD0645,Singhal PLC,Electronics,Televisions,276590.34,2.7,1265
+PRD0646,Ranganathan Ltd,Grocery,Bakery,352863.86,2.1,3559
+PRD0647,Khanna-Bhasin,Sports & Fitness,Football,358716.62,1.8,1909
+PRD0648,"Natt, Kale and Vala",Beauty & Personal Care,Skincare,146050.1,3.4,1987
+PRD0649,Agarwal-Chopra,Sports & Fitness,Cycling,393228.12,3.2,3009
+PRD0650,"Chauhan, Hans and Bala",Grocery,Bakery,269438.6,4.6,1988
+PRD0651,"Oak, Kade and Jayaraman",Grocery,Snacks,6511.35,4.5,1021
+PRD0652,"Deep, Hayre and Ramesh",Electronics,Laptops,49523.1,3.0,1963
+PRD0653,Tailor-Arya,Electronics,Televisions,134033.29,3.6,2961
+PRD0654,Karpe-Bandi,Electronics,Gaming Consoles,204830.02,4.7,786
+PRD0655,Cherian Group,Home & Kitchen,Bedding,268218.84,1.6,4821
+PRD0656,Mangal-Sani,Toys & Games,Board Games,235339.8,1.2,3565
+PRD0657,Chahal-Nagi,Electronics,Gaming Consoles,392866.18,3.5,1613
+PRD0658,"Gandhi, Narula and Narula",Home & Kitchen,Cookware,55260.32,1.8,380
+PRD0659,"Mangal, Sura and Kurian",Home & Kitchen,Lighting,138334.77,2.7,3828
+PRD0660,Chakraborty-Krishna,Electronics,Televisions,443002.56,3.0,3408
+PRD0661,"Barad, Prabhakar and Gola",Electronics,Tablets,451325.3,4.3,2807
+PRD0662,Loyal-Nagy,Sports & Fitness,Running,382925.6,4.6,3451
+PRD0663,"Dhawan, More and Choudhury",Sports & Fitness,Football,356385.74,3.5,4762
+PRD0664,"Sami, Choudhary and Iyer",Home & Kitchen,Lighting,212635.08,1.7,2718
+PRD0665,Kapadia-Panchal,Grocery,Dairy,71040.78,3.2,986
+PRD0666,"Pant, Prakash and Saran",Electronics,Tablets,3046.53,1.5,3375
+PRD0667,"Ramachandran, Gera and Dhawan",Beauty & Personal Care,Hair Care,89269.08,1.2,4685
+PRD0668,Bava PLC,Clothing,Shoes,487946.19,1.8,4833
+PRD0669,Ramanathan-Shukla,Beauty & Personal Care,Fragrances,291695.08,1.6,228
+PRD0670,"Peri, Parsa and Kumer",Electronics,Gaming Consoles,186336.51,3.4,3401
+PRD0671,Sane PLC,Beauty & Personal Care,Grooming,299559.74,3.5,4460
+PRD0672,"Bahl, Ramachandran and Shanker",Toys & Games,Board Games,269053.06,4.5,259
+PRD0673,Wali Ltd,Clothing,Shirts,387197.85,1.0,4924
+PRD0674,Ghosh-Gaba,Grocery,Staples,208484.37,4.3,2497
+PRD0675,"Natarajan, Rastogi and Chawla",Beauty & Personal Care,Hair Care,298321.19,3.6,3662
+PRD0676,Chander PLC,Toys & Games,Puzzles,130881.15,4.0,3362
+PRD0677,Dass LLC,Books,History,446295.41,3.6,553
+PRD0678,"Chaudhry, Kala and Bose",Clothing,T-Shirts,49411.74,3.8,2246
+PRD0679,Ratti-Jani,Home & Kitchen,Storage,33679.85,4.4,2744
+PRD0680,"Vyas, Garde and Sarkar",Clothing,Jeans,109847.73,3.0,1574
+PRD0681,"Wali, Chowdhury and Bath",Sports & Fitness,Cricket,99107.84,4.4,3135
+PRD0682,Bumb-Rai,Electronics,Headphones,213214.35,2.3,1391
+PRD0683,"Halder, Mukherjee and Dora",Beauty & Personal Care,Makeup,465400.22,1.9,15
+PRD0684,Lal Ltd,Electronics,Cameras,468185.59,3.3,4774
+PRD0685,Kohli PLC,Beauty & Personal Care,Makeup,456765.97,3.5,2196
+PRD0686,Dass Ltd,Beauty & Personal Care,Makeup,450728.25,2.9,4764
+PRD0687,Vora and Sons,Electronics,Smartwatches,358030.85,1.9,2671
+PRD0688,"Chaudry, Bora and Choudhry",Home & Kitchen,Furniture,84303.13,2.3,493
+PRD0689,"Dewan, Palla and Jayaraman",Grocery,Staples,236824.36,1.9,1805
+PRD0690,Tailor Ltd,Books,History,82263.03,2.2,3050
+PRD0691,Rajagopalan-Talwar,Toys & Games,Educational Toys,364853.04,2.0,3247
+PRD0692,Vala-Buch,Books,Self-Help,469275.27,2.3,4330
+PRD0693,Kaul-Mall,Electronics,Cameras,140415.56,4.8,2434
+PRD0694,Bansal-Parmer,Clothing,Sarees,157260.4,3.6,2895
+PRD0695,"Grover, Chowdhury and Kala",Clothing,Dresses,213789.7,3.5,4111
+PRD0696,Chatterjee-Narang,Sports & Fitness,Gym Equipment,228766.83,3.1,3677
+PRD0697,Patil-Nagi,Books,Fiction,362110.12,2.1,1541
+PRD0698,Kalita Inc,Clothing,Shoes,492296.62,1.3,1847
+PRD0699,Salvi PLC,Clothing,Jeans,394615.9,4.1,1296
+PRD0700,Samra-Narayanan,Sports & Fitness,Running,454233.66,3.6,1705
+PRD0701,Prakash-Pandey,Home & Kitchen,Kitchen Appliances,153776.2,3.8,3125
+PRD0702,Borde-Bassi,Home & Kitchen,Kitchen Appliances,198303.77,1.6,2950
+PRD0703,Kalla LLC,Toys & Games,Action Figures,100571.39,1.4,1625
+PRD0704,"Sarkar, Raman and Khurana",Books,History,133128.92,3.5,1751
+PRD0705,Dugar-Mahal,Electronics,Smartphones,176989.83,2.1,2145
+PRD0706,"Sawhney, Bains and Grewal",Grocery,Beverages,340203.49,4.7,4075
+PRD0707,"Vohra, Sami and Gala",Sports & Fitness,Outdoor Recreation,269484.59,4.1,962
+PRD0708,Manne-Balakrishnan,Books,Fiction,464842.07,4.5,4086
+PRD0709,Kannan-Viswanathan,Sports & Fitness,Outdoor Recreation,58944.78,4.5,694
+PRD0710,Lad-Wable,Clothing,Dresses,402633.23,4.0,2194
+PRD0711,Kumer Group,Grocery,Dairy,80496.35,4.5,791
+PRD0712,Dyal Group,Home & Kitchen,Furniture,454541.81,2.7,438
+PRD0713,Mall-Batta,Books,Self-Help,85332.13,3.7,2657
+PRD0714,Gade LLC,Home & Kitchen,Cookware,467189.58,2.0,302
+PRD0715,Rajan and Sons,Beauty & Personal Care,Bath & Body,94447.48,4.6,3813
+PRD0716,Edwin-Bansal,Home & Kitchen,Kitchen Appliances,340135.32,1.9,457
+PRD0717,"Hayre, Ramesh and Anand",Beauty & Personal Care,Hair Care,184847.94,3.5,3371
+PRD0718,Kale-Patla,Grocery,Frozen Foods,276001.51,3.3,2746
+PRD0719,"Maharaj, Vala and Dyal",Home & Kitchen,Home Decor,17231.59,4.5,3934
+PRD0720,Sharaf-Chakrabarti,Books,Science,380535.49,2.7,92
+PRD0721,Upadhyay-Ravi,Beauty & Personal Care,Fragrances,8562.05,1.3,4
+PRD0722,Palla-Sibal,Clothing,Shoes,354547.31,4.9,4392
+PRD0723,Keer-Venkatesh,Grocery,Bakery,30682.04,2.3,4045
+PRD0724,"Bora, Pal and Kala",Grocery,Fruits & Vegetables,312430.82,3.9,3593
+PRD0725,"Nadig, Keer and Mane",Books,Biography,197882.65,2.9,3192
+PRD0726,"Sangha, Ravel and Sagar",Books,History,123657.51,4.1,1242
+PRD0727,"Gera, Dhawan and Dara",Electronics,Televisions,367187.83,1.8,2178
+PRD0728,"Bava, Vohra and Sarin",Beauty & Personal Care,Fragrances,466065.61,4.7,2107
+PRD0729,Parikh-Chana,Electronics,Smartwatches,239751.24,2.5,744
+PRD0730,Sheth-Sehgal,Electronics,Smartwatches,133552.82,3.8,412
+PRD0731,Pillay and Sons,Grocery,Staples,440236.74,3.8,1426
+PRD0732,Balakrishnan-Mall,Toys & Games,Remote Control Toys,143168.86,3.2,3800
+PRD0733,Saraf Group,Books,Biography,245927.76,1.1,2048
+PRD0734,Kalita-Iyengar,Beauty & Personal Care,Makeup,41897.86,1.3,2490
+PRD0735,Mistry-Sarkar,Grocery,Snacks,219840.8,2.6,506
+PRD0736,"Oza, Thaman and Prakash",Electronics,Headphones,404198.05,3.9,2100
+PRD0737,"Dora, Krishna and Nagi",Grocery,Beverages,173564.73,3.4,771
+PRD0738,"Tank, Ranganathan and Dhawan",Toys & Games,Action Figures,247683.34,2.1,3244
+PRD0739,Mannan-Puri,Toys & Games,Remote Control Toys,473672.61,3.5,1753
+PRD0740,"Batta, Char and Nath",Electronics,Smartwatches,456634.56,2.0,2131
+PRD0741,Chatterjee-Goswami,Electronics,Gaming Consoles,138309.77,1.0,46
+PRD0742,"Kothari, Char and Cheema",Grocery,Frozen Foods,112459.93,1.6,3557
+PRD0743,"Khare, Brar and Dalal",Toys & Games,Board Games,4504.46,3.1,289
+PRD0744,Sami-Atwal,Grocery,Fruits & Vegetables,237811.1,2.4,769
+PRD0745,Konda LLC,Home & Kitchen,Home Decor,189639.44,2.2,1238
+PRD0746,Viswanathan PLC,Electronics,Gaming Consoles,325252.45,4.5,2216
+PRD0747,Gopal-Parsa,Beauty & Personal Care,Bath & Body,12216.72,3.5,5
+PRD0748,Bansal Group,Home & Kitchen,Storage,198355.08,4.9,3358
+PRD0749,Ahluwalia and Sons,Books,History,396097.6,4.6,597
+PRD0750,Hegde Ltd,Grocery,Staples,363202.4,2.4,3188
+PRD0751,Khurana Ltd,Home & Kitchen,Furniture,272483.38,4.2,1378
+PRD0752,Srivastava-Gala,Clothing,Dresses,482253.43,2.5,1896
+PRD0753,Solanki PLC,Sports & Fitness,Outdoor Recreation,405386.83,2.6,2674
+PRD0754,"Comar, Bhandari and Varma",Books,Biography,126509.66,3.4,2391
+PRD0755,Nayak Group,Home & Kitchen,Home Decor,338717.02,2.2,4303
+PRD0756,Gole Group,Toys & Games,Remote Control Toys,183854.89,3.6,3867
+PRD0757,Samra Inc,Beauty & Personal Care,Grooming,417195.69,1.8,1893
+PRD0758,"Bedi, Sharaf and Peri",Beauty & Personal Care,Skincare,17335.43,3.8,1650
+PRD0759,"Lad, Batra and Bains",Books,Biography,456922.95,1.8,504
+PRD0760,Bassi Group,Grocery,Frozen Foods,373507.95,4.0,2180
+PRD0761,Ramaswamy Inc,Beauty & Personal Care,Grooming,358469.67,4.0,1357
+PRD0762,Sarna LLC,Sports & Fitness,Gym Equipment,380190.91,1.7,3755
+PRD0763,Natarajan-Savant,Grocery,Snacks,46865.28,4.8,3564
+PRD0764,Ranganathan-Subramaniam,Sports & Fitness,Running,445630.8,4.8,4285
+PRD0765,Peri-Nair,Books,Science,490611.22,1.1,4795
+PRD0766,"Mangat, Nagi and Chaudhry",Sports & Fitness,Yoga,17048.03,4.1,1946
+PRD0767,"Bhasin, Bose and Dutt",Home & Kitchen,Kitchen Appliances,333590.31,3.8,275
+PRD0768,Sethi-Majumdar,Clothing,T-Shirts,200993.95,4.2,3148
+PRD0769,Narayanan-Dara,Electronics,Smartphones,16390.65,2.1,4963
+PRD0770,Cheema-Raja,Books,Fiction,380657.0,1.4,4906
+PRD0771,Shan-Chhabra,Clothing,Shoes,136083.28,3.9,695
+PRD0772,"Shetty, Dhawan and Walia",Grocery,Beverages,435091.54,1.9,3628
+PRD0773,Ravel-Chana,Sports & Fitness,Gym Equipment,105070.58,1.4,3916
+PRD0774,"Chaudhuri, Pradhan and Lall",Books,Self-Help,193169.88,2.3,1193
+PRD0775,"Bhardwaj, Rajagopal and Shah",Beauty & Personal Care,Grooming,370470.97,1.6,37
+PRD0776,"Ganesan, Gupta and Goda",Beauty & Personal Care,Fragrances,269325.44,1.9,647
+PRD0777,Uppal-Chana,Clothing,Shoes,225979.16,2.7,289
+PRD0778,Sagar-Kothari,Beauty & Personal Care,Makeup,310002.95,2.7,3128
+PRD0779,Sundaram-Vig,Clothing,Dresses,144619.96,1.9,173
+PRD0780,Gupta-Jani,Home & Kitchen,Home Decor,184102.36,1.3,1631
+PRD0781,Narula-Ben,Books,Non-Fiction,401973.77,2.5,2976
+PRD0782,Venkatesh-Luthra,Grocery,Fruits & Vegetables,96160.12,3.3,527
+PRD0783,Koshy Ltd,Beauty & Personal Care,Hair Care,18194.12,3.6,4386
+PRD0784,"Khanna, Chana and Bora",Electronics,Laptops,32875.71,4.0,4280
+PRD0785,Jhaveri PLC,Grocery,Beverages,234786.7,1.7,1520
+PRD0786,Ravel-Manne,Sports & Fitness,Running,79605.99,4.1,2111
+PRD0787,"Desai, Varkey and Sengupta",Clothing,Jeans,196082.64,3.3,2990
+PRD0788,"Goel, Chana and Ganesan",Toys & Games,Dolls,339219.05,4.8,4431
+PRD0789,"Jani, Kohli and Sabharwal",Sports & Fitness,Cricket,446137.04,1.7,2658
+PRD0790,"Mital, Dara and Solanki",Books,Biography,300129.97,5.0,2584
+PRD0791,Chaudhari Group,Books,Non-Fiction,452947.47,3.0,4441
+PRD0792,"Ramakrishnan, Chad and Keer",Books,Science,219724.52,4.8,4542
+PRD0793,Magar and Sons,Sports & Fitness,Football,410776.66,2.3,3687
+PRD0794,Goel Group,Sports & Fitness,Running,218172.91,3.0,2466
+PRD0795,Rao-Narayanan,Electronics,Cameras,85392.09,1.8,3415
+PRD0796,Mital-Issac,Grocery,Fruits & Vegetables,188906.88,4.0,2190
+PRD0797,Khurana-Bal,Toys & Games,Remote Control Toys,442613.4,4.5,3799
+PRD0798,"Sathe, Saraf and Kashyap",Toys & Games,Educational Toys,116128.41,2.4,942
+PRD0799,"Sankar, Aurora and Mittal",Clothing,Shirts,265235.57,2.8,610
+PRD0800,"Sethi, Issac and D’Alia",Grocery,Staples,429133.17,3.5,3019
+PRD0801,Sur-Pau,Sports & Fitness,Cricket,397473.03,4.4,1130
+PRD0802,Kashyap-Dash,Electronics,Televisions,86930.19,3.0,233
+PRD0803,"Prabhakar, Kothari and Balan",Home & Kitchen,Lighting,424917.53,3.6,3576
+PRD0804,Salvi-Rana,Toys & Games,Puzzles,497620.57,2.6,2949
+PRD0805,Om-Yogi,Books,Biography,466760.39,3.3,728
+PRD0806,"Bobal, Parmar and Srivastava",Toys & Games,Remote Control Toys,58673.67,1.7,2
+PRD0807,Sanghvi Ltd,Clothing,Sarees,66922.99,1.8,3164
+PRD0808,"Lad, Mall and Sharaf",Grocery,Beverages,305918.21,3.0,2673
+PRD0809,Varty Inc,Toys & Games,Educational Toys,108687.46,2.8,4789
+PRD0810,"Malhotra, Grover and Dhingra",Books,Self-Help,150869.36,2.7,1473
+PRD0811,Comar Ltd,Toys & Games,Educational Toys,154268.56,1.0,25
+PRD0812,Chadha and Sons,Beauty & Personal Care,Makeup,170808.44,3.3,2582
+PRD0813,Pai Inc,Beauty & Personal Care,Skincare,159990.51,1.4,2962
+PRD0814,Nori Ltd,Electronics,Gaming Consoles,458300.48,1.0,3515
+PRD0815,Ganesh-Sunder,Beauty & Personal Care,Hair Care,415420.26,3.4,1797
+PRD0816,"Prabhu, Murthy and Vyas",Grocery,Beverages,374296.8,4.9,712
+PRD0817,Kala and Sons,Toys & Games,Action Figures,389232.75,3.4,3590
+PRD0818,"Mishra, Bajwa and Pathak",Grocery,Beverages,220601.84,1.4,1204
+PRD0819,Mannan and Sons,Books,Self-Help,149969.04,4.8,3137
+PRD0820,Banerjee Group,Grocery,Snacks,278988.57,4.6,2823
+PRD0821,"Borra, Merchant and Loke",Electronics,Smartphones,83099.07,2.1,1584
+PRD0822,Kara and Sons,Clothing,Shirts,460505.79,4.5,3394
+PRD0823,Bumb Ltd,Home & Kitchen,Bedding,357967.29,3.4,3028
+PRD0824,Dutt-Lall,Home & Kitchen,Furniture,182628.31,2.0,1542
+PRD0825,"Kant, Shan and Agarwal",Electronics,Smartphones,426105.92,4.3,3273
+PRD0826,Basu Inc,Beauty & Personal Care,Fragrances,318147.75,2.5,2414
+PRD0827,Handa Inc,Books,History,147831.09,4.4,2101
+PRD0828,"Krishnan, Badal and Bhatti",Clothing,Trousers,49709.0,1.8,2585
+PRD0829,Mall Group,Clothing,Trousers,273143.16,2.0,2999
+PRD0830,Bahl-Kari,Clothing,Trousers,69014.21,2.5,3182
+PRD0831,"Deshpande, Mitter and Som",Electronics,Gaming Consoles,220638.31,4.0,365
+PRD0832,"Nagi, Radhakrishnan and Bawa",Clothing,Jackets,72199.23,4.2,2610
+PRD0833,Bansal-Varkey,Beauty & Personal Care,Makeup,25768.5,2.6,4630
+PRD0834,Rana-Chandra,Toys & Games,Puzzles,259687.06,1.2,2296
+PRD0835,"Nanda, Puri and Khatri",Home & Kitchen,Kitchen Appliances,454163.09,2.0,3412
+PRD0836,Dugar Group,Toys & Games,Remote Control Toys,399271.45,3.9,1879
+PRD0837,Saini-More,Sports & Fitness,Yoga,454982.05,3.7,4068
+PRD0838,Krishna Ltd,Sports & Fitness,Running,212633.17,1.9,1481
+PRD0839,Balan-Chowdhury,Grocery,Staples,14178.61,4.4,4180
+PRD0840,"Kohli, Nair and Ratta",Clothing,Dresses,435333.59,2.2,4357
+PRD0841,Oak Inc,Clothing,Sarees,388165.42,4.1,1249
+PRD0842,"Bava, Venkataraman and Krishnamurthy",Electronics,Headphones,48063.13,1.7,4526
+PRD0843,Sagar-Chaudhary,Home & Kitchen,Lighting,215724.84,3.8,4949
+PRD0844,Solanki and Sons,Toys & Games,Remote Control Toys,490284.24,1.2,1680
+PRD0845,Dhillon-Parsa,Toys & Games,Educational Toys,228106.59,2.9,2815
+PRD0846,Aurora LLC,Electronics,Smartphones,476384.69,4.3,679
+PRD0847,Pai PLC,Sports & Fitness,Gym Equipment,30266.3,3.0,2990
+PRD0848,Gera PLC,Sports & Fitness,Cycling,334862.88,1.6,420
+PRD0849,"Dua, Sodhi and Chana",Clothing,Trousers,300765.22,1.2,1524
+PRD0850,Kota-Bahl,Books,Science,313768.36,3.8,2171
+PRD0851,Parekh and Sons,Electronics,Smartphones,246081.75,4.3,4029
+PRD0852,"Choudhary, Srinivas and Jhaveri",Toys & Games,Action Figures,335708.72,4.5,4685
+PRD0853,"D’Alia, Peri and Dhawan",Clothing,Shirts,20006.07,2.9,3006
+PRD0854,Raju-Varughese,Grocery,Frozen Foods,421187.49,1.5,4908
+PRD0855,Sengupta-Choudhary,Home & Kitchen,Furniture,138698.66,3.0,1267
+PRD0856,Natt-Bhattacharyya,Grocery,Dairy,370444.62,3.9,1361
+PRD0857,Chaudhari-Madan,Books,Science,341133.99,4.6,1386
+PRD0858,Ramachandran and Sons,Sports & Fitness,Yoga,364896.12,4.6,299
+PRD0859,Basak PLC,Electronics,Tablets,117694.09,2.1,1366
+PRD0860,"Deol, Mitra and Cherian",Beauty & Personal Care,Skincare,185401.93,4.9,2079
+PRD0861,Naidu-Sha,Sports & Fitness,Football,335567.25,1.3,2058
+PRD0862,Dalal LLC,Electronics,Headphones,492770.38,2.7,4806
+PRD0863,"Mitra, Khalsa and Kashyap",Books,Self-Help,338633.51,2.7,319
+PRD0864,Sachdev-Wali,Beauty & Personal Care,Hair Care,314562.72,4.0,2821
+PRD0865,Bassi LLC,Toys & Games,Board Games,470825.36,4.9,1060
+PRD0866,Chaudhuri Ltd,Electronics,Cameras,232224.0,2.5,3724
+PRD0867,Bhardwaj Ltd,Clothing,T-Shirts,131817.83,4.3,3285
+PRD0868,Vohra PLC,Books,Non-Fiction,264227.88,4.9,2591
+PRD0869,"Wali, Nanda and Rastogi",Clothing,Trousers,357955.67,1.0,4319
+PRD0870,"Dayal, Parikh and Karan",Books,Non-Fiction,134831.47,4.7,2618
+PRD0871,"Bhasin, Sengupta and Barad",Electronics,Headphones,29060.59,4.0,2472
+PRD0872,Pall-Prakash,Beauty & Personal Care,Makeup,429650.41,4.2,1483
+PRD0873,Iyer-Narasimhan,Books,History,236000.43,3.8,408
+PRD0874,"Prabhakar, Din and Verma",Grocery,Fruits & Vegetables,406067.33,1.1,187
+PRD0875,Lanka Inc,Grocery,Beverages,299797.18,2.6,1803
+PRD0876,Savant and Sons,Clothing,Jackets,166829.84,4.0,4923
+PRD0877,Bala-Bhardwaj,Sports & Fitness,Football,356637.62,2.1,4665
+PRD0878,Dutt and Sons,Home & Kitchen,Cookware,287146.69,2.8,536
+PRD0879,Balay-Sarraf,Clothing,Jackets,169342.3,2.2,658
+PRD0880,"Banik, Kala and Varkey",Grocery,Fruits & Vegetables,63863.81,1.4,3475
+PRD0881,"Mani, Pradhan and Balay",Beauty & Personal Care,Makeup,23942.0,3.3,1047
+PRD0882,"Tank, Hayre and Bawa",Books,Children's Books,51336.94,3.1,935
+PRD0883,Wali Ltd,Clothing,T-Shirts,40801.61,3.2,4163
+PRD0884,Vasa-Saha,Toys & Games,Remote Control Toys,87645.2,2.6,738
+PRD0885,Shanker-Kashyap,Clothing,T-Shirts,408180.23,4.3,3011
+PRD0886,Goda-Chada,Home & Kitchen,Furniture,149416.36,4.9,2099
+PRD0887,Chaudhuri-Bir,Electronics,Gaming Consoles,82722.19,2.0,1975
+PRD0888,"Varty, Magar and Basu",Books,Fiction,325219.21,2.0,4855
+PRD0889,"Chahal, Banerjee and Rattan",Toys & Games,Dolls,6877.23,3.0,4105
+PRD0890,Som Ltd,Books,Self-Help,56950.1,3.7,2480
+PRD0891,"Thaker, Handa and Chakrabarti",Sports & Fitness,Outdoor Recreation,418594.65,1.4,1001
+PRD0892,Sur LLC,Grocery,Dairy,79816.41,4.5,3546
+PRD0893,"Bains, Sidhu and Khosla",Sports & Fitness,Gym Equipment,493962.8,2.3,1076
+PRD0894,Kakar Ltd,Toys & Games,Action Figures,153484.23,3.4,4050
+PRD0895,"Sahota, Gole and Chaudry",Beauty & Personal Care,Skincare,248626.16,3.4,896
+PRD0896,Dixit Inc,Books,History,435081.93,4.8,1271
+PRD0897,"Mall, Tella and Barad",Home & Kitchen,Bedding,185949.46,1.8,1954
+PRD0898,Gaba PLC,Home & Kitchen,Home Decor,488851.36,3.0,4473
+PRD0899,Ganesh-Kapur,Sports & Fitness,Cricket,470538.02,3.8,2930
+PRD0900,Chahal and Sons,Sports & Fitness,Football,96474.22,2.1,2539
+PRD0901,Arora-Parmar,Grocery,Bakery,439676.4,1.1,1861
+PRD0902,Tak LLC,Home & Kitchen,Lighting,430847.47,4.7,3511
+PRD0903,Pathak-Kannan,Toys & Games,Board Games,337342.57,1.2,98
+PRD0904,"Ghosh, Dalal and Tak",Beauty & Personal Care,Makeup,78739.38,2.0,2488
+PRD0905,"Dube, Ramanathan and Dada",Toys & Games,Dolls,425456.72,1.1,4154
+PRD0906,Devi Group,Grocery,Dairy,228989.54,3.0,4547
+PRD0907,Basak Inc,Toys & Games,Action Figures,403605.91,2.7,2404
+PRD0908,Kant Inc,Clothing,T-Shirts,413157.39,1.7,3645
+PRD0909,"Suresh, Wadhwa and Karpe",Grocery,Fruits & Vegetables,278679.94,2.3,1757
+PRD0910,"Dave, Nayak and Ravel",Electronics,Smartphones,289331.06,4.3,3730
+PRD0911,Upadhyay-Sabharwal,Electronics,Tablets,473498.03,2.5,3303
+PRD0912,Patla Ltd,Sports & Fitness,Football,3636.86,4.5,1925
+PRD0913,Master PLC,Toys & Games,Puzzles,447795.49,1.7,901
+PRD0914,"Bhakta, Mane and Raju",Toys & Games,Educational Toys,463191.53,2.9,4454
+PRD0915,Talwar-Kara,Beauty & Personal Care,Makeup,459840.95,2.5,1867
+PRD0916,Comar-Sarma,Beauty & Personal Care,Makeup,388891.05,4.0,4624
+PRD0917,Chanda-Sarin,Toys & Games,Educational Toys,253971.7,4.0,4854
+PRD0918,Thaker Group,Clothing,Jackets,181510.8,3.1,425
+PRD0919,Joshi-Krishna,Sports & Fitness,Outdoor Recreation,490508.58,2.8,1783
+PRD0920,"Prabhakar, Bora and Patla",Home & Kitchen,Storage,317825.42,4.7,1219
+PRD0921,"Dhawan, Bandi and Devan",Beauty & Personal Care,Skincare,328293.69,2.3,2279
+PRD0922,"Srivastava, Shukla and Ben",Toys & Games,Dolls,219694.88,3.1,3916
+PRD0923,Sanghvi-Jaggi,Clothing,Shoes,144000.38,4.8,3544
+PRD0924,Swaminathan and Sons,Clothing,Sarees,445303.78,3.6,2122
+PRD0925,"Bhardwaj, Oza and Wagle",Books,Children's Books,145643.55,1.7,1130
+PRD0926,Swaminathan-Pradhan,Sports & Fitness,Cycling,171867.63,4.4,3550
+PRD0927,"Sahota, Mukhopadhyay and Dhillon",Sports & Fitness,Cycling,449252.77,2.4,3626
+PRD0928,"Muni, Mall and Goyal",Home & Kitchen,Home Decor,42509.79,3.4,4991
+PRD0929,"Narain, Sarna and Deo",Electronics,Televisions,389459.45,2.7,2592
+PRD0930,"Ravel, Khosla and Mani",Home & Kitchen,Cookware,43094.6,3.1,482
+PRD0931,Kant-Chandran,Home & Kitchen,Furniture,222034.09,4.2,3464
+PRD0932,Bakshi PLC,Home & Kitchen,Furniture,429450.45,2.5,3411
+PRD0933,Pradhan PLC,Home & Kitchen,Furniture,260456.45,3.6,3781
+PRD0934,Kannan Ltd,Grocery,Beverages,376068.76,2.3,2052
+PRD0935,"Setty, Doshi and Kibe",Home & Kitchen,Cookware,55002.05,4.8,670
+PRD0936,Thaman Ltd,Books,Children's Books,260392.6,2.5,2371
+PRD0937,Patla Inc,Grocery,Frozen Foods,12173.96,3.4,3439
+PRD0938,Natt-Saxena,Grocery,Dairy,418105.61,4.9,4133
+PRD0939,"Talwar, Madan and Sehgal",Toys & Games,Board Games,137483.62,1.5,2505
+PRD0940,Mane and Sons,Sports & Fitness,Running,467460.43,1.5,2714
+PRD0941,Sawhney-D’Alia,Toys & Games,Puzzles,310246.04,2.8,2601
+PRD0942,Rai-Subramanian,Home & Kitchen,Lighting,275839.78,2.3,4633
+PRD0943,"Devan, Sodhi and Issac",Electronics,Cameras,470076.43,3.0,683
+PRD0944,Uppal LLC,Toys & Games,Educational Toys,368941.44,1.5,1056
+PRD0945,Kala-Shah,Clothing,T-Shirts,350844.39,3.2,2046
+PRD0946,"Badal, Sibal and Korpal",Beauty & Personal Care,Makeup,98554.47,2.0,4581
+PRD0947,Ranganathan PLC,Clothing,Dresses,221512.92,4.2,3066
+PRD0948,Nadkarni LLC,Toys & Games,Educational Toys,183460.79,4.8,4292
+PRD0949,Gopal-Bobal,Sports & Fitness,Running,24389.77,4.2,1525
+PRD0950,"Dutta, Bobal and Sehgal",Sports & Fitness,Outdoor Recreation,376344.04,1.9,342
+PRD0951,Shan Inc,Beauty & Personal Care,Skincare,444526.71,1.1,1980
+PRD0952,Wagle-Raman,Sports & Fitness,Cricket,489910.94,2.3,4854
+PRD0953,Saraf LLC,Electronics,Smartwatches,336157.84,3.9,4463
+PRD0954,"Oak, Palla and Comar",Grocery,Fruits & Vegetables,3228.8,3.0,1844
+PRD0955,Chakrabarti-Basak,Electronics,Gaming Consoles,148075.82,4.9,1719
+PRD0956,Mangat LLC,Toys & Games,Educational Toys,224543.72,3.2,2550
+PRD0957,Muni LLC,Electronics,Smartwatches,335001.37,3.3,3196
+PRD0958,"Sundaram, Saini and Patel",Books,Fiction,95954.81,1.8,3716
+PRD0959,Banerjee Inc,Toys & Games,Board Games,60127.04,4.5,1415
+PRD0960,"Raval, Natt and Sarma",Beauty & Personal Care,Skincare,137594.88,2.2,3571
+PRD0961,Konda and Sons,Clothing,Jeans,486351.73,4.0,3239
+PRD0962,Chaudhry-Sethi,Home & Kitchen,Storage,177543.33,2.8,4485
+PRD0963,Borde-Khatri,Books,Non-Fiction,363912.08,1.1,4359
+PRD0964,Doctor Group,Electronics,Gaming Consoles,187879.68,3.4,2477
+PRD0965,Dubey Ltd,Clothing,Trousers,334344.01,3.2,855
+PRD0966,Bala Ltd,Grocery,Beverages,492739.35,5.0,3353
+PRD0967,"Oommen, Hegde and Om",Sports & Fitness,Running,280971.94,2.6,1959
+PRD0968,Kapadia Inc,Grocery,Snacks,475811.38,3.0,3457
+PRD0969,Chand-Chokshi,Beauty & Personal Care,Skincare,315284.44,1.8,589
+PRD0970,Keer and Sons,Clothing,Jeans,39467.04,3.7,2624
+PRD0971,Konda Group,Toys & Games,Educational Toys,267389.88,4.0,1383
+PRD0972,Dara PLC,Grocery,Staples,199305.11,1.7,4772
+PRD0973,Ramesh LLC,Grocery,Fruits & Vegetables,182634.21,2.1,3585
+PRD0974,Cheema-Khalsa,Home & Kitchen,Kitchen Appliances,1374.39,2.2,673
+PRD0975,"Shroff, Sood and Butala",Books,History,440094.91,3.2,1491
+PRD0976,Bhavsar-Chakrabarti,Home & Kitchen,Lighting,245373.68,1.6,1460
+PRD0977,Mitra-Setty,Electronics,Cameras,451766.81,4.6,2496
+PRD0978,Master Inc,Grocery,Frozen Foods,262067.23,3.2,154
+PRD0979,Nayar-Muni,Home & Kitchen,Bedding,392765.58,1.3,1870
+PRD0980,"Mohan, Mitra and Sagar",Electronics,Televisions,163280.99,3.3,1422
+PRD0981,"Khosla, Golla and Bhatnagar",Electronics,Smartwatches,245722.69,2.4,2831
+PRD0982,Narang-Arora,Clothing,Sarees,227177.39,1.3,3112
+PRD0983,Sha-Krishnamurthy,Electronics,Tablets,270040.45,2.0,3707
+PRD0984,"Kaur, Gala and Patel",Electronics,Smartphones,292739.92,1.1,2418
+PRD0985,"Chaudhary, Gokhale and Shere",Clothing,Shoes,201601.85,1.7,3636
+PRD0986,"Sarma, Ben and Kulkarni",Toys & Games,Remote Control Toys,70647.16,1.0,3118
+PRD0987,Narula Ltd,Beauty & Personal Care,Bath & Body,447689.57,3.4,3099
+PRD0988,Rattan-Hari,Grocery,Frozen Foods,269507.5,2.1,1913
+PRD0989,Desai Group,Books,Self-Help,417438.58,2.5,1226
+PRD0990,Bedi and Sons,Beauty & Personal Care,Grooming,256089.23,3.5,145
+PRD0991,"Dhillon, Edwin and Handa",Beauty & Personal Care,Hair Care,372709.84,1.4,982
+PRD0992,"Andra, Soman and Warrior",Clothing,Shirts,394941.19,3.9,1699
+PRD0993,Kibe-Ram,Grocery,Beverages,96660.13,1.2,1455
+PRD0994,"Bava, Sankaran and Krishnamurthy",Toys & Games,Board Games,482813.95,2.0,1885
+PRD0995,Pandya-Badami,Clothing,Trousers,431144.63,2.1,1464
+PRD0996,Nadig-Gour,Electronics,Headphones,263832.1,4.7,4482
+PRD0997,Lata and Sons,Home & Kitchen,Lighting,202580.02,3.7,4713
+PRD0998,Dar-Batra,Grocery,Bakery,13465.51,2.2,4789
+PRD0999,Bandi Group,Books,Self-Help,497952.63,2.3,2160
+PRD1000,Dhawan-Pillay,Toys & Games,Educational Toys,378391.72,2.3,2731
